@@ -33,6 +33,5 @@ O jogo carrega os recursos de `assets/`, independentemente da pasta de onde foi 
 - `assets/`: imagens, animações, narrativa, áudio e créditos.
 - `ferramentas/`: preparação de recursos e geração de prévias; não é executada na partida.
 
-As ferramentas de edição de imagens e áudio precisam das dependências opcionais em `requirements-ferramentas.txt`. Os caminhos das fontes de áudio são passados a `ferramentas/preparar_audio.py`; os arquivos exportados já estão incluídos no jogo. Preserve os créditos e as licenças ao distribuir.
 
 
