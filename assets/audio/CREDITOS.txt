@@ -1,0 +1,71 @@
+A ILHA AFOGADA - CRÉDITOS DE ÁUDIO
+
+Passos de areia, terra, pedra e madeira: Impact Sounds, de Kenney (CC0 1.0).
+https://kenney.nl/assets/impact-sounds
+Quatro variações por superfície, recorte, ganho por pico/RMS e fades curtos.
+Passos na água: respingos de rubberduck, 40 CC0 water/splash/slime SFX (CC0 1.0).
+https://opengameart.org/content/40-cc0-water-splash-slime-sfx
+
+Música: North Fantasy Music - Fantasy Music and Drum Loops Pack.
+Faixas: Nightwatch e Temple of Light.
+Licença CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+https://opengameart.org/content/fantasy-music-and-drum-loops-pack
+Alterações: normalização, fades curtos e conversão WAV para OGG.
+
+Insetos: Crickets, de dklon.
+Licença CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
+https://opengameart.org/content/crickets
+Alterações: recorte, normalização, mistura mono e emenda para repetição.
+
+Ossos: Rattling Bones e Crunching Bones, de spookymodem.
+Reações de dor: 11 male human pain/death sounds, de Michel Baradari.
+Licença CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
+https://opengameart.org/content/rattling-bones
+https://opengameart.org/content/crunching-bones
+https://opengameart.org/content/11-male-human-paindeath-sounds
+Alterações: recortes, ajuste de timbre, ecos, normalização e fades.
+
+Música do Rei Necromante: Epic Fight - Alec_Koff (Pixabay, ID 487416).
+https://pixabay.com/music/adventure-epic-fight-487416/
+Pixabay Content License: https://pixabay.com/service/license-summary/
+A página informa registro no YouTube Content ID.
+Alterações: normalização, fades curtos e conversão MP3 para OGG.
+
+Música dos demais combates: combates.mp3, fornecida pelo usuário.
+Convertida para OGG com normalização e fades curtos; origem/licença não inferidas.
+
+Música do menu e transições entre ilhas: menu.mp3, fornecida pelo usuário.
+Convertida para OGG com normalização e fades curtos; origem/licença não inferidas.
+
+Música da Ilha da Caveira até a arena do Rei: ilha 3.mp3, fornecida pelo usuário.
+Convertida para OGG com normalização e fades curtos; origem/licença não inferidas.
+
+Efeito de derrota: composição original do projeto, sintetizada em ré menor.
+
+Outros efeitos e ambientes relacionados abaixo: CC0 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Kenney - https://kenney.nl/assets/rpg-audio
+Kenney - https://kenney.nl/assets/interface-sounds
+Kenney - https://kenney.nl/assets/impact-sounds
+Eldritch Grim - https://opengameart.org/content/pirate-adventure
+jasinski; edição original qubodup - https://opengameart.org/content/beach-ocean-waves
+rucisko - ocean waves 01 - https://freesound.org/people/rucisko/sounds/164767/
+PagDev - https://opengameart.org/content/fireplace-sound-loop
+remaxim - https://opengameart.org/content/short-wind-sound
+isaiah658 - https://opengameart.org/content/ambient-bird-sounds
+JaggedStone - https://opengameart.org/content/loopable-dungeon-ambience
+JaggedStone - https://opengameart.org/node/29772
+Cici Fyre (cicifyre) - https://opengameart.org/content/female-rpg-voice-starter-pack
+rubberduck - https://opengameart.org/content/40-cc0-water-splash-slime-sfx
+Radio_fragola_gorizia - https://freesound.org/people/Radio_fragola_gorizia/sounds/400086/
+Lydmakeren - https://freesound.org/people/Lydmakeren/sounds/510917/
+Venn Stone - https://opengameart.org/content/evil-laughter-0
+qubodup - https://opengameart.org/content/3-dark-magic-spells
+KevinT1001 - https://freesound.org/people/KevinT1001/sounds/379906/
+HaelDB - https://opengameart.org/content/male-gruntyelling-sounds
+Umplix - https://opengameart.org/content/victory-4
+ARoachIFoundOnMyPillow - https://opengameart.org/content/victory-fanfare
+
+Detalhes por arquivo, alterações e hashes de integridade: fontes.json.
+Preservar este arquivo e as licenças ao distribuir o jogo.

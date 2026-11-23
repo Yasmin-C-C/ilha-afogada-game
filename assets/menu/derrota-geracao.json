@@ -1,0 +1,18 @@
+{
+  "ferramenta": "image_gen integrada",
+  "referencia": "menu-principal.png",
+  "arquivo": "derrota.png",
+  "prompt": "Create a DEFEAT SCREEN BACKGROUND for this exact dark-fantasy pirate adventure game, matching the visual identity, illustration style and navy/teal palette of the reference main menu. REMOVE ALL WORDS, TITLE, GOLD LETTERS and compass typography from reference. No text anywhere, no buttons, no UI, no watermark. Widescreen approximately 1280x680. A somber moonlit haunted tropical coast with distant ruined island and broken pirate mast silhouettes, fog and dark gentle ocean. Foreground at far left: a worn pirate cutlass and an extinguished lantern resting among wet rocks, small and subordinate, suggesting defeat without showing a person or blood. Composition frames a large EMPTY DARK CENTRAL AREA from x25%-75%, y25%-90%, reserved for a heading and two buttons drawn later by game code. Keep all high-contrast details, moon and shipwreck at outer edges. Elegant ominous atmosphere, restrained moonlit silver and antique bronze accents. Less busy than the main menu; readable dark center, no skull face filling screen, no gore. Same quality and coherent illustrated identity as reference.",
+  "mensagem": "Você foi derrotado!",
+  "opcoes": [
+    "Renascer",
+    "Menu"
+  ],
+  "controles": [
+    "Seta para cima",
+    "Seta para baixo",
+    "Enter",
+    "Mouse"
+  ],
+  "comportamento": "Após a animação de queda, aguarda escolha. Renascer retorna ao início da mesma ilha com vida cheia."
+}

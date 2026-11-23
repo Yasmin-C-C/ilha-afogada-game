@@ -1,0 +1,22 @@
+{
+  "ferramenta": "image_gen integrada",
+  "prompts": {
+    "macacos": "Create an ISLAND DISCOVERY PRESENTATION BACKGROUND for the dark fantasy pirate game in the reference. Match the quality, maritime adventure visual identity and detailed illustrative rendering of the reference, but depict a NEW LOCATION: ISLAND OF MONKEYS: bright sunlit tropical island, lush banana trees and palms, vibrant deep green jungle, turquoise water, sunbeams and warm sunlight, old weathered stone ruins partly reclaimed by vines, a small sandy coastal approach in foreground; one or two very small monkeys only at distant canopy edges. Inviting beauty with a subtle pirate mystery, sunny daytime, not scary or nighttime. Landscape widescreen, approximately 1280x680. Frame the scene with scenery along the left/right edges and a clear view of the island. Reserve a calm uncluttered central-lower zone x15%-85%, y48%-86% for a long title and short subtitle drawn later by game code; provide natural contrast there without a painted panel or blank black rectangle. Compose depth, water/shore foreground, island middle ground, atmospheric sky. The image must have NO text, NO letters, NO game logo, NO UI, NO buttons, NO frames, NO watermark. No dominant human character or boss. Preserve a coherent painterly pirate fantasy art direction across the game screens. ",
+    "caveira": "Create an ISLAND DISCOVERY PRESENTATION BACKGROUND for the dark fantasy pirate game in the reference. Match the quality, maritime adventure visual identity and detailed illustrative rendering of the reference, but depict a NEW LOCATION: SKULL ISLAND: barren lifeless haunted island, black coastal rocks, skeletal dead trees, ruined stone arches and broken pillars, cold desaturated blue-gray fog, sparse weathered skulls and bones small along the outer shore, dark overcast sky with pale moonlight. No greenery, no living creatures, no flowers. Gloomy desolate dark fantasy pirate location, no gore. Landscape widescreen, approximately 1280x680. Frame the scene with scenery along the left/right edges and a clear view of the island. Reserve a calm uncluttered central-lower zone x15%-85%, y48%-86% for a long title and short subtitle drawn later by game code; provide natural contrast there without a painted panel or blank black rectangle. Compose depth, water/shore foreground, island middle ground, atmospheric sky. The image must have NO text, NO letters, NO game logo, NO UI, NO buttons, NO frames, NO watermark. No dominant human character or boss. Preserve a coherent painterly pirate fantasy art direction across the game screens. "
+  },
+  "arquivos": [
+    "descoberta-macacos.png",
+    "descoberta-caveira.png"
+  ],
+  "referencia": "menu-principal.png",
+  "textos": {
+    "macacos": [
+      "Ilha dos Macacos descoberta!",
+      "Existe caminho de volta para casa?"
+    ],
+    "caveira": [
+      "Ilha da Caveira descoberta!",
+      "Em busca do tesouro escondido..."
+    ]
+  }
+}

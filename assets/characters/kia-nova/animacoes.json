@@ -1,0 +1,2842 @@
+{
+  "integrado_ao_jogo": true,
+  "direcoes": [
+    "frente",
+    "costas",
+    "esquerda",
+    "direita"
+  ],
+  "animacoes": {
+    "parada-sem-espada": {
+      "espada": false,
+      "loop": true,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "parada-sem-espada/frente-01.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              95,
+              23,
+              215,
+              341
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/frente-02.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              78,
+              20,
+              200,
+              341
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/frente-03.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              64,
+              26,
+              189,
+              341
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/frente-04.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              55,
+              24,
+              175,
+              341
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "parada-sem-espada/costas-01.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              97,
+              23,
+              215,
+              341
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/costas-02.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              82,
+              20,
+              201,
+              341
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/costas-03.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              66,
+              26,
+              189,
+              341
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/costas-04.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              57,
+              25,
+              177,
+              340
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "parada-sem-espada/esquerda-01.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              106,
+              23,
+              213,
+              342
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/esquerda-02.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              91,
+              20,
+              199,
+              342
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/esquerda-03.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              78,
+              27,
+              187,
+              342
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/esquerda-04.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              65,
+              26,
+              175,
+              342
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "parada-sem-espada/direita-01.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              95,
+              26,
+              206,
+              343
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/direita-02.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              83,
+              22,
+              191,
+              343
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/direita-03.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              66,
+              26,
+              178,
+              343
+            ]
+          },
+          {
+            "arquivo": "parada-sem-espada/direita-04.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              53,
+              26,
+              164,
+              343
+            ]
+          }
+        ]
+      }
+    },
+    "parada-com-espada": {
+      "espada": true,
+      "loop": true,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "parada-com-espada/frente-01.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              76,
+              24,
+              207,
+              335
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/frente-02.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              67,
+              21,
+              201,
+              335
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/frente-03.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              60,
+              28,
+              196,
+              335
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/frente-04.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              55,
+              25,
+              186,
+              335
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "parada-com-espada/costas-01.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              88,
+              23,
+              221,
+              336
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/costas-02.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              79,
+              20,
+              215,
+              336
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/costas-03.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              72,
+              29,
+              206,
+              336
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/costas-04.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              65,
+              27,
+              199,
+              336
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "parada-com-espada/esquerda-01.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              97,
+              26,
+              205,
+              340
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/esquerda-02.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              93,
+              24,
+              200,
+              339
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/esquerda-03.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              81,
+              31,
+              189,
+              340
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/esquerda-04.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              75,
+              27,
+              182,
+              339
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "parada-com-espada/direita-01.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              89,
+              29,
+              197,
+              339
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/direita-02.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              77,
+              26,
+              183,
+              340
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/direita-03.png",
+            "tamanho": [
+              271,
+              362
+            ],
+            "limite_visivel": [
+              65,
+              34,
+              179,
+              339
+            ]
+          },
+          {
+            "arquivo": "parada-com-espada/direita-04.png",
+            "tamanho": [
+              272,
+              362
+            ],
+            "limite_visivel": [
+              62,
+              30,
+              169,
+              339
+            ]
+          }
+        ]
+      }
+    },
+    "caminhada-sem-espada": {
+      "espada": false,
+      "loop": true,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "caminhada-sem-espada/frente-01.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              122,
+              10,
+              218,
+              249
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/frente-02.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              108,
+              11,
+              204,
+              250
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/frente-03.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              93,
+              12,
+              186,
+              248
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/frente-04.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              78,
+              12,
+              173,
+              250
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/frente-05.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              64,
+              12,
+              158,
+              248
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/frente-06.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              49,
+              12,
+              144,
+              244
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "caminhada-sem-espada/costas-01.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              116,
+              10,
+              212,
+              248
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/costas-02.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              106,
+              11,
+              197,
+              247
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/costas-03.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              91,
+              11,
+              182,
+              248
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/costas-04.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              76,
+              11,
+              172,
+              247
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/costas-05.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              63,
+              11,
+              156,
+              243
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/costas-06.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              48,
+              11,
+              142,
+              244
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "caminhada-sem-espada/esquerda-01.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              95,
+              11,
+              213,
+              242
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/esquerda-02.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              98,
+              11,
+              198,
+              237
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/esquerda-03.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              93,
+              11,
+              183,
+              243
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/esquerda-04.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              51,
+              11,
+              173,
+              241
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/esquerda-05.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              55,
+              10,
+              154,
+              239
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/esquerda-06.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              49,
+              11,
+              139,
+              243
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "caminhada-sem-espada/direita-01.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              113,
+              10,
+              231,
+              241
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/direita-02.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              102,
+              10,
+              198,
+              239
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/direita-03.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              88,
+              10,
+              176,
+              242
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/direita-04.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              62,
+              10,
+              186,
+              240
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/direita-05.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              58,
+              10,
+              150,
+              242
+            ]
+          },
+          {
+            "arquivo": "caminhada-sem-espada/direita-06.png",
+            "tamanho": [
+              256,
+              256
+            ],
+            "limite_visivel": [
+              43,
+              10,
+              133,
+              242
+            ]
+          }
+        ]
+      }
+    },
+    "caminhada-com-espada": {
+      "espada": true,
+      "loop": true,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "caminhada-com-espada/frente-01.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              21,
+              43,
+              165,
+              335
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/frente-02.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              23,
+              45,
+              164,
+              332
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/frente-03.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              24,
+              42,
+              156,
+              325
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/frente-04.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              23,
+              45,
+              159,
+              335
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/frente-05.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              24,
+              43,
+              157,
+              326
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/frente-06.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              27,
+              43,
+              155,
+              335
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "caminhada-com-espada/costas-01.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              41,
+              40,
+              176,
+              333
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/costas-02.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              37,
+              40,
+              175,
+              329
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/costas-03.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              42,
+              37,
+              177,
+              312
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/costas-04.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              38,
+              41,
+              176,
+              334
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/costas-05.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              39,
+              40,
+              173,
+              324
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/costas-06.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              38,
+              40,
+              171,
+              330
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "caminhada-com-espada/esquerda-01.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              23,
+              39,
+              154,
+              330
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/esquerda-02.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              21,
+              40,
+              153,
+              325
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/esquerda-03.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              10,
+              38,
+              155,
+              318
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/esquerda-04.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              6,
+              39,
+              157,
+              327
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/esquerda-05.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              9,
+              40,
+              158,
+              327
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/esquerda-06.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              19,
+              40,
+              154,
+              325
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "caminhada-com-espada/direita-01.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              30,
+              40,
+              173,
+              327
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/direita-02.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              33,
+              40,
+              145,
+              327
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/direita-03.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              29,
+              40,
+              154,
+              324
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/direita-04.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              25,
+              39,
+              169,
+              327
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/direita-05.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              27,
+              40,
+              150,
+              330
+            ]
+          },
+          {
+            "arquivo": "caminhada-com-espada/direita-06.png",
+            "tamanho": [
+              181,
+              362
+            ],
+            "limite_visivel": [
+              33,
+              39,
+              153,
+              327
+            ]
+          }
+        ]
+      }
+    },
+    "ataque": {
+      "espada": true,
+      "loop": false,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "ataque/frente-preparacao.png",
+            "tamanho": [
+              313,
+              313
+            ],
+            "limite_visivel": [
+              100,
+              76,
+              223,
+              289
+            ],
+            "limite_corpo": [
+              100,
+              84,
+              223,
+              289
+            ]
+          },
+          {
+            "arquivo": "ataque/frente-golpe.png",
+            "tamanho": [
+              314,
+              313
+            ],
+            "limite_visivel": [
+              108,
+              88,
+              219,
+              289
+            ],
+            "limite_corpo": [
+              108,
+              88,
+              219,
+              289
+            ]
+          },
+          {
+            "arquivo": "ataque/frente-continuacao.png",
+            "tamanho": [
+              313,
+              313
+            ],
+            "limite_visivel": [
+              100,
+              91,
+              246,
+              289
+            ],
+            "limite_corpo": [
+              100,
+              91,
+              246,
+              289
+            ]
+          },
+          {
+            "arquivo": "ataque/frente-recuperacao.png",
+            "tamanho": [
+              314,
+              313
+            ],
+            "limite_visivel": [
+              99,
+              85,
+              210,
+              289
+            ],
+            "limite_corpo": [
+              99,
+              85,
+              210,
+              289
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "ataque/costas-preparacao.png",
+            "tamanho": [
+              313,
+              314
+            ],
+            "limite_visivel": [
+              100,
+              64,
+              219,
+              287
+            ],
+            "limite_corpo": [
+              100,
+              89,
+              219,
+              287
+            ]
+          },
+          {
+            "arquivo": "ataque/costas-golpe.png",
+            "tamanho": [
+              314,
+              314
+            ],
+            "limite_visivel": [
+              103,
+              41,
+              232,
+              287
+            ],
+            "limite_corpo": [
+              103,
+              90,
+              232,
+              287
+            ]
+          },
+          {
+            "arquivo": "ataque/costas-continuacao.png",
+            "tamanho": [
+              313,
+              314
+            ],
+            "limite_visivel": [
+              95,
+              93,
+              273,
+              287
+            ],
+            "limite_corpo": [
+              95,
+              93,
+              273,
+              287
+            ]
+          },
+          {
+            "arquivo": "ataque/costas-recuperacao.png",
+            "tamanho": [
+              314,
+              314
+            ],
+            "limite_visivel": [
+              108,
+              89,
+              218,
+              287
+            ],
+            "limite_corpo": [
+              108,
+              89,
+              218,
+              287
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "ataque/esquerda-preparacao.png",
+            "tamanho": [
+              313,
+              313
+            ],
+            "limite_visivel": [
+              111,
+              65,
+              214,
+              278
+            ],
+            "limite_corpo": [
+              111,
+              89,
+              214,
+              278
+            ]
+          },
+          {
+            "arquivo": "ataque/esquerda-golpe.png",
+            "tamanho": [
+              314,
+              313
+            ],
+            "limite_visivel": [
+              34,
+              91,
+              223,
+              278
+            ],
+            "limite_corpo": [
+              34,
+              91,
+              223,
+              278
+            ]
+          },
+          {
+            "arquivo": "ataque/esquerda-continuacao.png",
+            "tamanho": [
+              313,
+              313
+            ],
+            "limite_visivel": [
+              59,
+              91,
+              220,
+              276
+            ],
+            "limite_corpo": [
+              59,
+              91,
+              220,
+              276
+            ]
+          },
+          {
+            "arquivo": "ataque/esquerda-recuperacao.png",
+            "tamanho": [
+              314,
+              313
+            ],
+            "limite_visivel": [
+              103,
+              91,
+              211,
+              278
+            ],
+            "limite_corpo": [
+              103,
+              91,
+              211,
+              278
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "ataque/direita-preparacao.png",
+            "tamanho": [
+              313,
+              314
+            ],
+            "limite_visivel": [
+              105,
+              67,
+              208,
+              278
+            ],
+            "limite_corpo": [
+              105,
+              85,
+              208,
+              278
+            ]
+          },
+          {
+            "arquivo": "ataque/direita-golpe.png",
+            "tamanho": [
+              314,
+              314
+            ],
+            "limite_visivel": [
+              96,
+              87,
+              281,
+              278
+            ],
+            "limite_corpo": [
+              96,
+              87,
+              281,
+              278
+            ]
+          },
+          {
+            "arquivo": "ataque/direita-continuacao.png",
+            "tamanho": [
+              313,
+              314
+            ],
+            "limite_visivel": [
+              97,
+              90,
+              264,
+              278
+            ],
+            "limite_corpo": [
+              97,
+              90,
+              264,
+              278
+            ]
+          },
+          {
+            "arquivo": "ataque/direita-recuperacao.png",
+            "tamanho": [
+              314,
+              314
+            ],
+            "limite_visivel": [
+              106,
+              87,
+              192,
+              278
+            ],
+            "limite_corpo": [
+              106,
+              87,
+              192,
+              278
+            ]
+          }
+        ]
+      },
+      "escala_corporal": {
+        "frente": 0.5225990414366317,
+        "costas": 0.5026624068157615,
+        "esquerda": 0.51671974522293,
+        "direita": 0.5208828522920204
+      },
+      "calibracao_cabeca": {
+        "frente": {
+          "referencia": "ataque/frente-recuperacao.png",
+          "linha_fonte": 105,
+          "largura_fonte": 53,
+          "largura_jogo": 27.69774919614148,
+          "base": "parada-com-espada/frente-01.png",
+          "linha_base": 55,
+          "altura_cabeca_fonte": 55.080000000000005,
+          "fator_corpo": 1.1463505274506123
+        },
+        "costas": {
+          "referencia": "ataque/costas-recuperacao.png",
+          "linha_fonte": 109,
+          "largura_fonte": 51,
+          "largura_jogo": 25.635782747603834,
+          "base": "parada-com-espada/costas-01.png",
+          "linha_base": 54,
+          "altura_cabeca_fonte": 53.46,
+          "fator_corpo": 1.2542548775425488
+        },
+        "esquerda": {
+          "referencia": "ataque/esquerda-recuperacao.png",
+          "linha_fonte": 110,
+          "largura_fonte": 56,
+          "largura_jogo": 28.936305732484076,
+          "base": "parada-com-espada/esquerda-01.png",
+          "linha_base": 57,
+          "altura_cabeca_fonte": 50.49,
+          "fator_corpo": 1.3030081046343591
+        },
+        "direita": {
+          "referencia": "ataque/direita-recuperacao.png",
+          "linha_fonte": 106,
+          "largura_fonte": 57,
+          "largura_jogo": 29.690322580645162,
+          "base": "parada-com-espada/direita-01.png",
+          "linha_base": 60,
+          "altura_cabeca_fonte": 51.57,
+          "fator_corpo": 1.2548838954203654
+        }
+      }
+    },
+    "esquiva-sem-espada": {
+      "espada": false,
+      "loop": false,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "esquiva-sem-espada/frente-01.png",
+            "tamanho": [
+              301,
+              326
+            ],
+            "limite_visivel": [
+              70,
+              36,
+              217,
+              303
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/frente-02.png",
+            "tamanho": [
+              302,
+              326
+            ],
+            "limite_visivel": [
+              28,
+              73,
+              245,
+              304
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/frente-03.png",
+            "tamanho": [
+              301,
+              326
+            ],
+            "limite_visivel": [
+              41,
+              48,
+              214,
+              306
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/frente-04.png",
+            "tamanho": [
+              302,
+              326
+            ],
+            "limite_visivel": [
+              67,
+              28,
+              201,
+              306
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "esquiva-sem-espada/costas-01.png",
+            "tamanho": [
+              301,
+              326
+            ],
+            "limite_visivel": [
+              68,
+              39,
+              219,
+              308
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/costas-02.png",
+            "tamanho": [
+              302,
+              326
+            ],
+            "limite_visivel": [
+              28,
+              72,
+              250,
+              310
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/costas-03.png",
+            "tamanho": [
+              301,
+              326
+            ],
+            "limite_visivel": [
+              51,
+              51,
+              227,
+              315
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/costas-04.png",
+            "tamanho": [
+              302,
+              326
+            ],
+            "limite_visivel": [
+              72,
+              32,
+              201,
+              308
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "esquiva-sem-espada/esquerda-01.png",
+            "tamanho": [
+              301,
+              326
+            ],
+            "limite_visivel": [
+              64,
+              45,
+              201,
+              310
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/esquerda-02.png",
+            "tamanho": [
+              302,
+              326
+            ],
+            "limite_visivel": [
+              17,
+              81,
+              256,
+              307
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/esquerda-03.png",
+            "tamanho": [
+              301,
+              326
+            ],
+            "limite_visivel": [
+              47,
+              52,
+              229,
+              306
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/esquerda-04.png",
+            "tamanho": [
+              302,
+              326
+            ],
+            "limite_visivel": [
+              80,
+              29,
+              197,
+              312
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "esquiva-sem-espada/direita-01.png",
+            "tamanho": [
+              301,
+              327
+            ],
+            "limite_visivel": [
+              78,
+              44,
+              213,
+              307
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/direita-02.png",
+            "tamanho": [
+              302,
+              327
+            ],
+            "limite_visivel": [
+              13,
+              74,
+              238,
+              304
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/direita-03.png",
+            "tamanho": [
+              301,
+              327
+            ],
+            "limite_visivel": [
+              59,
+              54,
+              223,
+              308
+            ]
+          },
+          {
+            "arquivo": "esquiva-sem-espada/direita-04.png",
+            "tamanho": [
+              302,
+              327
+            ],
+            "limite_visivel": [
+              73,
+              27,
+              190,
+              312
+            ]
+          }
+        ]
+      },
+      "escala_corporal": {
+        "frente": 0.3813766596785465,
+        "costas": 0.3925804393400784,
+        "esquerda": 0.33163982272186787,
+        "direita": 0.33801080532289063
+      },
+      "calibracao_cabeca": {
+        "frente": {
+          "referencia": "esquiva-sem-espada/frente-04.png",
+          "linha_fonte": 56,
+          "largura_fonte": 72,
+          "largura_jogo": 27.459119496855347,
+          "base": "parada-sem-espada/frente-01.png",
+          "linha_base": 55,
+          "altura_cabeca_fonte": 75.06,
+          "fator_corpo": 1.154752170126172
+        },
+        "costas": {
+          "referencia": "esquiva-sem-espada/costas-04.png",
+          "linha_fonte": 60,
+          "largura_fonte": 69,
+          "largura_jogo": 27.08805031446541,
+          "base": "parada-sem-espada/costas-01.png",
+          "linha_base": 55,
+          "altura_cabeca_fonte": 74.52000000000001,
+          "fator_corpo": 1.121974103959467
+        },
+        "esquerda": {
+          "referencia": "esquiva-sem-espada/esquerda-04.png",
+          "linha_fonte": 57,
+          "largura_fonte": 87,
+          "largura_jogo": 28.852664576802507,
+          "base": "parada-sem-espada/esquerda-01.png",
+          "linha_base": 55,
+          "altura_cabeca_fonte": 76.41000000000001,
+          "fator_corpo": 1.3524260240461414
+        },
+        "direita": {
+          "referencia": "esquiva-sem-espada/direita-04.png",
+          "linha_fonte": 55,
+          "largura_fonte": 87,
+          "largura_jogo": 29.406940063091483,
+          "base": "parada-sem-espada/direita-01.png",
+          "linha_base": 58,
+          "altura_cabeca_fonte": 76.95,
+          "fator_corpo": 1.308105098883849
+        }
+      }
+    },
+    "esquiva-com-espada": {
+      "espada": true,
+      "loop": false,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "esquiva-com-espada/frente-01.png",
+            "tamanho": [
+              311,
+              315
+            ],
+            "limite_visivel": [
+              77,
+              36,
+              231,
+              300
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/frente-02.png",
+            "tamanho": [
+              312,
+              315
+            ],
+            "limite_visivel": [
+              54,
+              79,
+              245,
+              301
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/frente-03.png",
+            "tamanho": [
+              311,
+              315
+            ],
+            "limite_visivel": [
+              58,
+              64,
+              239,
+              300
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/frente-04.png",
+            "tamanho": [
+              312,
+              315
+            ],
+            "limite_visivel": [
+              69,
+              30,
+              215,
+              301
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "esquiva-com-espada/costas-01.png",
+            "tamanho": [
+              311,
+              316
+            ],
+            "limite_visivel": [
+              97,
+              37,
+              258,
+              299
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/costas-02.png",
+            "tamanho": [
+              312,
+              316
+            ],
+            "limite_visivel": [
+              64,
+              78,
+              267,
+              297
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/costas-03.png",
+            "tamanho": [
+              311,
+              316
+            ],
+            "limite_visivel": [
+              68,
+              61,
+              258,
+              301
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/costas-04.png",
+            "tamanho": [
+              312,
+              316
+            ],
+            "limite_visivel": [
+              85,
+              32,
+              235,
+              300
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "esquiva-com-espada/esquerda-01.png",
+            "tamanho": [
+              311,
+              315
+            ],
+            "limite_visivel": [
+              89,
+              42,
+              216,
+              290
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/esquerda-02.png",
+            "tamanho": [
+              312,
+              315
+            ],
+            "limite_visivel": [
+              57,
+              74,
+              263,
+              288
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/esquerda-03.png",
+            "tamanho": [
+              311,
+              315
+            ],
+            "limite_visivel": [
+              63,
+              49,
+              218,
+              288
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/esquerda-04.png",
+            "tamanho": [
+              312,
+              315
+            ],
+            "limite_visivel": [
+              73,
+              27,
+              202,
+              295
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "esquiva-com-espada/direita-01.png",
+            "tamanho": [
+              311,
+              316
+            ],
+            "limite_visivel": [
+              106,
+              40,
+              218,
+              298
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/direita-02.png",
+            "tamanho": [
+              312,
+              316
+            ],
+            "limite_visivel": [
+              57,
+              72,
+              243,
+              292
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/direita-03.png",
+            "tamanho": [
+              311,
+              316
+            ],
+            "limite_visivel": [
+              72,
+              49,
+              234,
+              292
+            ]
+          },
+          {
+            "arquivo": "esquiva-com-espada/direita-04.png",
+            "tamanho": [
+              312,
+              316
+            ],
+            "limite_visivel": [
+              93,
+              26,
+              199,
+              300
+            ]
+          }
+        ]
+      },
+      "escala_corporal": {
+        "frente": 0.44673789026034644,
+        "costas": 0.3884209507212702,
+        "esquerda": 0.39638774976005586,
+        "direita": 0.4012205754141238
+      },
+      "calibracao_cabeca": {
+        "frente": {
+          "referencia": "esquiva-com-espada/frente-04.png",
+          "linha_fonte": 57,
+          "largura_fonte": 62,
+          "largura_jogo": 27.69774919614148,
+          "base": "parada-com-espada/frente-01.png",
+          "linha_base": 55,
+          "altura_cabeca_fonte": 73.17,
+          "fator_corpo": 0.9653085290470095
+        },
+        "costas": {
+          "referencia": "esquiva-com-espada/costas-04.png",
+          "linha_fonte": 59,
+          "largura_fonte": 66,
+          "largura_jogo": 25.635782747603834,
+          "base": "parada-com-espada/costas-01.png",
+          "linha_base": 54,
+          "altura_cabeca_fonte": 72.36,
+          "fator_corpo": 1.1829590965398633
+        },
+        "esquerda": {
+          "referencia": "esquiva-com-espada/esquerda-04.png",
+          "linha_fonte": 54,
+          "largura_fonte": 73,
+          "largura_jogo": 28.936305732484076,
+          "base": "parada-com-espada/esquerda-01.png",
+          "linha_base": 57,
+          "altura_cabeca_fonte": 72.36,
+          "fator_corpo": 1.1517497019439362
+        },
+        "direita": {
+          "referencia": "esquiva-com-espada/direita-04.png",
+          "linha_fonte": 53,
+          "largura_fonte": 74,
+          "largura_jogo": 29.690322580645162,
+          "base": "parada-com-espada/direita-01.png",
+          "linha_base": 60,
+          "altura_cabeca_fonte": 73.98,
+          "fator_corpo": 1.100502770235797
+        }
+      }
+    },
+    "dano-sem-espada": {
+      "espada": false,
+      "loop": false,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "dano-sem-espada/frente-impacto.png",
+            "tamanho": [
+              443,
+              443
+            ],
+            "limite_visivel": [
+              147,
+              31,
+              302,
+              429
+            ]
+          },
+          {
+            "arquivo": "dano-sem-espada/frente-recuperacao.png",
+            "tamanho": [
+              444,
+              443
+            ],
+            "limite_visivel": [
+              142,
+              25,
+              296,
+              429
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "dano-sem-espada/costas-impacto.png",
+            "tamanho": [
+              443,
+              444
+            ],
+            "limite_visivel": [
+              146,
+              37,
+              302,
+              432
+            ]
+          },
+          {
+            "arquivo": "dano-sem-espada/costas-recuperacao.png",
+            "tamanho": [
+              444,
+              444
+            ],
+            "limite_visivel": [
+              145,
+              26,
+              298,
+              432
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "dano-sem-espada/esquerda-impacto.png",
+            "tamanho": [
+              443,
+              443
+            ],
+            "limite_visivel": [
+              150,
+              31,
+              305,
+              434
+            ]
+          },
+          {
+            "arquivo": "dano-sem-espada/esquerda-recuperacao.png",
+            "tamanho": [
+              444,
+              443
+            ],
+            "limite_visivel": [
+              161,
+              22,
+              300,
+              434
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "dano-sem-espada/direita-impacto.png",
+            "tamanho": [
+              443,
+              444
+            ],
+            "limite_visivel": [
+              146,
+              38,
+              301,
+              433
+            ]
+          },
+          {
+            "arquivo": "dano-sem-espada/direita-recuperacao.png",
+            "tamanho": [
+              444,
+              444
+            ],
+            "limite_visivel": [
+              145,
+              27,
+              285,
+              433
+            ]
+          }
+        ]
+      },
+      "escala_corporal": {
+        "frente": 0.28603249475890985,
+        "costas": 0.28216719077568136,
+        "esquerda": 0.28566994630497533,
+        "direita": 0.2883033339518773
+      },
+      "calibracao_cabeca": {
+        "frente": {
+          "referencia": "dano-sem-espada/frente-recuperacao.png",
+          "linha_fonte": 65,
+          "largura_fonte": 96,
+          "largura_jogo": 27.459119496855347,
+          "base": "parada-sem-espada/frente-01.png",
+          "linha_base": 55,
+          "altura_cabeca_fonte": 109.08000000000001,
+          "fator_corpo": 1.0289588381274264
+        },
+        "costas": {
+          "referencia": "dano-sem-espada/costas-recuperacao.png",
+          "linha_fonte": 67,
+          "largura_fonte": 96,
+          "largura_jogo": 27.08805031446541,
+          "base": "parada-sem-espada/costas-01.png",
+          "linha_base": 55,
+          "altura_cabeca_fonte": 109.62,
+          "fator_corpo": 1.0411356394558262
+        },
+        "esquerda": {
+          "referencia": "dano-sem-espada/esquerda-recuperacao.png",
+          "linha_fonte": 63,
+          "largura_fonte": 101,
+          "largura_jogo": 28.852664576802507,
+          "base": "parada-sem-espada/esquerda-01.png",
+          "linha_base": 55,
+          "altura_cabeca_fonte": 111.24000000000001,
+          "fator_corpo": 1.0035380454984126
+        },
+        "direita": {
+          "referencia": "dano-sem-espada/direita-recuperacao.png",
+          "linha_fonte": 68,
+          "largura_fonte": 102,
+          "largura_jogo": 29.406940063091483,
+          "base": "parada-sem-espada/direita-01.png",
+          "linha_base": 58,
+          "altura_cabeca_fonte": 109.62,
+          "fator_corpo": 1.0111044579273443
+        }
+      }
+    },
+    "dano-com-espada": {
+      "espada": true,
+      "loop": false,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "dano-com-espada/frente-impacto.png",
+            "tamanho": [
+              512,
+              384
+            ],
+            "limite_visivel": [
+              151,
+              32,
+              371,
+              370
+            ]
+          },
+          {
+            "arquivo": "dano-com-espada/frente-recuperacao.png",
+            "tamanho": [
+              512,
+              384
+            ],
+            "limite_visivel": [
+              98,
+              28,
+              319,
+              370
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "dano-com-espada/costas-impacto.png",
+            "tamanho": [
+              512,
+              384
+            ],
+            "limite_visivel": [
+              185,
+              26,
+              422,
+              364
+            ]
+          },
+          {
+            "arquivo": "dano-com-espada/costas-recuperacao.png",
+            "tamanho": [
+              512,
+              384
+            ],
+            "limite_visivel": [
+              131,
+              20,
+              361,
+              365
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "dano-com-espada/esquerda-impacto.png",
+            "tamanho": [
+              512,
+              384
+            ],
+            "limite_visivel": [
+              146,
+              23,
+              372,
+              361
+            ]
+          },
+          {
+            "arquivo": "dano-com-espada/esquerda-recuperacao.png",
+            "tamanho": [
+              512,
+              384
+            ],
+            "limite_visivel": [
+              95,
+              22,
+              317,
+              364
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "dano-com-espada/direita-impacto.png",
+            "tamanho": [
+              512,
+              384
+            ],
+            "limite_visivel": [
+              190,
+              28,
+              356,
+              362
+            ]
+          },
+          {
+            "arquivo": "dano-com-espada/direita-recuperacao.png",
+            "tamanho": [
+              512,
+              384
+            ],
+            "limite_visivel": [
+              141,
+              24,
+              306,
+              362
+            ]
+          }
+        ]
+      },
+      "escala_corporal": {
+        "frente": 0.30775276884601643,
+        "costas": 0.3088648523807691,
+        "esquerda": 0.28936305732484074,
+        "direita": 0.3060857998004656
+      },
+      "calibracao_cabeca": {
+        "frente": {
+          "referencia": "dano-com-espada/frente-recuperacao.png",
+          "linha_fonte": 62,
+          "largura_fonte": 90,
+          "largura_jogo": 27.69774919614148,
+          "base": "parada-com-espada/frente-01.png",
+          "linha_base": 55,
+          "altura_cabeca_fonte": 92.34,
+          "fator_corpo": 1.1659242871675342
+        },
+        "costas": {
+          "referencia": "dano-com-espada/costas-recuperacao.png",
+          "linha_fonte": 54,
+          "largura_fonte": 83,
+          "largura_jogo": 25.635782747603834,
+          "base": "parada-com-espada/costas-01.png",
+          "linha_base": 54,
+          "altura_cabeca_fonte": 93.15,
+          "fator_corpo": 1.147088019245816
+        },
+        "esquerda": {
+          "referencia": "dano-com-espada/esquerda-recuperacao.png",
+          "linha_fonte": 56,
+          "largura_fonte": 100,
+          "largura_jogo": 28.936305732484076,
+          "base": "parada-com-espada/esquerda-01.png",
+          "linha_base": 57,
+          "altura_cabeca_fonte": 92.34,
+          "fator_corpo": 1.2635272281991823
+        },
+        "direita": {
+          "referencia": "dano-com-espada/direita-recuperacao.png",
+          "linha_fonte": 58,
+          "largura_fonte": 97,
+          "largura_jogo": 29.690322580645162,
+          "base": "parada-com-espada/direita-01.png",
+          "linha_base": 60,
+          "altura_cabeca_fonte": 91.26,
+          "fator_corpo": 1.192562294369865
+        }
+      }
+    },
+    "derrota": {
+      "espada": false,
+      "loop": false,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "derrota/frente-01.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              113,
+              35,
+              205,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/frente-02.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              108,
+              57,
+              212,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/frente-03.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              109,
+              94,
+              212,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/frente-04.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              73,
+              122,
+              247,
+              260
+            ]
+          },
+          {
+            "arquivo": "derrota/frente-05.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              48,
+              167,
+              270,
+              260
+            ]
+          },
+          {
+            "arquivo": "derrota/frente-06.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              39,
+              184,
+              280,
+              261
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "derrota/costas-01.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              115,
+              35,
+              203,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/costas-02.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              105,
+              65,
+              213,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/costas-03.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              101,
+              98,
+              218,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/costas-04.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              68,
+              127,
+              252,
+              260
+            ]
+          },
+          {
+            "arquivo": "derrota/costas-05.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              49,
+              165,
+              270,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/costas-06.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              36,
+              180,
+              281,
+              260
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "derrota/esquerda-01.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              120,
+              33,
+              200,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/esquerda-02.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              110,
+              48,
+              209,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/esquerda-03.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              91,
+              94,
+              227,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/esquerda-04.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              58,
+              120,
+              261,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/esquerda-05.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              41,
+              173,
+              277,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/esquerda-06.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              35,
+              188,
+              284,
+              260
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "derrota/direita-01.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              119,
+              30,
+              201,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/direita-02.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              110,
+              47,
+              208,
+              260
+            ]
+          },
+          {
+            "arquivo": "derrota/direita-03.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              92,
+              90,
+              229,
+              260
+            ]
+          },
+          {
+            "arquivo": "derrota/direita-04.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              77,
+              118,
+              243,
+              261
+            ]
+          },
+          {
+            "arquivo": "derrota/direita-05.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              43,
+              177,
+              275,
+              260
+            ]
+          },
+          {
+            "arquivo": "derrota/direita-06.png",
+            "tamanho": [
+              320,
+              280
+            ],
+            "limite_visivel": [
+              37,
+              182,
+              284,
+              260
+            ]
+          }
+        ]
+      }
+    },
+    "interacao": {
+      "espada": false,
+      "loop": false,
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "interacao/frente-inclinacao.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              139,
+              43,
+              265,
+              342
+            ]
+          },
+          {
+            "arquivo": "interacao/frente-coleta.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              108,
+              111,
+              247,
+              342
+            ]
+          },
+          {
+            "arquivo": "interacao/frente-retorno.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              91,
+              43,
+              220,
+              342
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "interacao/costas-inclinacao.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              141,
+              37,
+              265,
+              338
+            ]
+          },
+          {
+            "arquivo": "interacao/costas-coleta.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              106,
+              105,
+              259,
+              339
+            ]
+          },
+          {
+            "arquivo": "interacao/costas-retorno.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              92,
+              35,
+              220,
+              338
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "interacao/esquerda-inclinacao.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              126,
+              31,
+              260,
+              335
+            ]
+          },
+          {
+            "arquivo": "interacao/esquerda-coleta.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              81,
+              99,
+              265,
+              335
+            ]
+          },
+          {
+            "arquivo": "interacao/esquerda-retorno.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              88,
+              26,
+              223,
+              335
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "interacao/direita-inclinacao.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              139,
+              26,
+              267,
+              338
+            ]
+          },
+          {
+            "arquivo": "interacao/direita-coleta.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              88,
+              96,
+              264,
+              338
+            ]
+          },
+          {
+            "arquivo": "interacao/direita-retorno.png",
+            "tamanho": [
+              362,
+              362
+            ],
+            "limite_visivel": [
+              89,
+              18,
+              219,
+              338
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "total_quadros": 180
+}

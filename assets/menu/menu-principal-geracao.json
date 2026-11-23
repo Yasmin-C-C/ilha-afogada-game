@@ -1,0 +1,22 @@
+{
+  "ferramenta": "image_gen integrada",
+  "prompt": "Redesign this pirate dark-fantasy game MAIN MENU BACKGROUND. Preserve the game identity and EXACT title 'A Ilha Afogada', in beautiful large weathered antique gold lettering, with a small skull/nautical compass motif integrated subtly as in reference. REMOVE all other text, subtitle, phase name and ALL buttons from the reference. The ONLY text anywhere is the title 'A Ilha Afogada'. Create a polished atmospheric widescreen illustration: haunted tropical island with broken stone towers and palm silhouettes, mist, dark ocean with restrained moonlight, wrecked pirate ship/mast silhouette tucked at far left edge, foreground jagged coastal rocks. Palette very dark navy blue and desaturated teal, antique gold title. Dark fantasy pirate adventure, mysterious and elegant, readable stylized retro game illustration with crisp detailed shapes, no gore. Composition landscape approximately 1280x680 aspect ratio: title centered in upper-middle third, fully contained with ample top margin; moon and ruins frame title, not overlap letters. Keep the central lower third between x38%-62% and y62%-90% calm dark open water, reserved for TWO interactive buttons that will be drawn later by the game. No painted buttons, no signs, no extra words or UI, no border, no watermark. Excellent contrast and coherent ominous atmosphere, matching reference quality, less visual clutter behind interface.",
+  "referencia": "menu-ilha2.png",
+  "arquivo": "menu-principal.png",
+  "interface": {
+    "opcoes": [
+      "Jogar",
+      "Sair"
+    ],
+    "controles": [
+      "Seta para cima",
+      "Seta para baixo",
+      "Enter",
+      "Mouse"
+    ],
+    "resolucao": [
+      1280,
+      680
+    ]
+  }
+}

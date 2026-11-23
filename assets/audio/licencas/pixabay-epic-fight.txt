@@ -1,0 +1,24 @@
+Epic Fight - Alec_Koff
+Pixabay, faixa 487416
+Baixada em 2026-11-23 pelo botão de download da página oficial.
+
+Página da faixa:
+https://pixabay.com/music/adventure-epic-fight-487416/
+
+Licença indicada pela página: Pixabay Content License.
+Resumo oficial: https://pixabay.com/service/license-summary/
+Termos completos: https://pixabay.com/service/terms/
+
+O resumo permite uso gratuito, adaptação e utilização sem atribuição obrigatória,
+sujeitos às restrições dos termos. A faixa foi incorporada à trilha do jogo;
+não é oferecida como um produto musical avulso.
+
+A página informa registro no YouTube Content ID. Isso pode ser relevante para
+o teaser e vídeos de gameplay. Link para o certificado disponibilizado pelo site:
+https://pixabay.com/music/487416/license/
+O download do certificado não foi concluído nesta sessão.
+
+Arquivo recebido: alec_koff-epic-fight-487416.mp3
+Arquivo do jogo: musica-rei-epic-fight.ogg
+Alterações: normalização, fades curtos e conversão para OGG Vorbis.
+Origem, duração e hashes estão registrados em ../fontes.json.

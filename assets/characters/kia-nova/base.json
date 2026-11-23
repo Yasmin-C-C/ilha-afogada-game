@@ -1,0 +1,54 @@
+{
+  "frente": {
+    "arquivo": "kia-frente.png",
+    "tamanho": [
+      543,
+      724
+    ],
+    "limite_visivel": [
+      168,
+      46,
+      405,
+      672
+    ]
+  },
+  "costas": {
+    "arquivo": "kia-costas.png",
+    "tamanho": [
+      543,
+      724
+    ],
+    "limite_visivel": [
+      166,
+      43,
+      397,
+      671
+    ]
+  },
+  "esq": {
+    "arquivo": "kia-esq.png",
+    "tamanho": [
+      543,
+      724
+    ],
+    "limite_visivel": [
+      174,
+      46,
+      385,
+      672
+    ]
+  },
+  "dir": {
+    "arquivo": "kia-dir.png",
+    "tamanho": [
+      543,
+      724
+    ],
+    "limite_visivel": [
+      145,
+      46,
+      357,
+      672
+    ]
+  }
+}

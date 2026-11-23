@@ -1,0 +1,42 @@
+{
+  "circulo-invocacao": {
+    "quadros": [
+      "circulo-invocacao-01.png",
+      "circulo-invocacao-02.png",
+      "circulo-invocacao-03.png",
+      "circulo-invocacao-04.png",
+      "circulo-invocacao-05.png",
+      "circulo-invocacao-06.png",
+      "circulo-invocacao-07.png",
+      "circulo-invocacao-08.png",
+      "circulo-invocacao-09.png"
+    ],
+    "fases": {
+      "surgindo": [
+        1,
+        2,
+        3
+      ],
+      "ativo": [
+        4,
+        5,
+        6
+      ],
+      "desaparecendo": [
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  "aparicao-skeleton": {
+    "quadros": [
+      "aparicao-skeleton-01.png",
+      "aparicao-skeleton-02.png",
+      "aparicao-skeleton-03.png",
+      "aparicao-skeleton-04.png",
+      "aparicao-skeleton-05.png",
+      "aparicao-skeleton-06.png"
+    ]
+  }
+}

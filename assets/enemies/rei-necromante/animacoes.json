@@ -1,0 +1,106 @@
+{
+  "direcoes": [
+    "frente",
+    "costas",
+    "esquerda",
+    "direita"
+  ],
+  "animacoes": {
+    "movimento": {
+      "frente": [
+        "parado-frente.png",
+        "andar-01-frente.png",
+        "andar-02-frente.png",
+        "andar-03-frente.png"
+      ],
+      "costas": [
+        "parado-costas.png",
+        "andar-01-costas.png",
+        "andar-02-costas.png",
+        "andar-03-costas.png"
+      ],
+      "esquerda": [
+        "parado-esquerda.png",
+        "andar-01-esquerda.png",
+        "andar-02-esquerda.png",
+        "andar-03-esquerda.png"
+      ],
+      "direita": [
+        "parado-direita.png",
+        "andar-01-direita.png",
+        "andar-02-direita.png",
+        "andar-03-direita.png"
+      ]
+    },
+    "ataque": {
+      "frente": [
+        "preparacao-frente.png",
+        "golpe-frente.png",
+        "recuperacao-frente.png"
+      ],
+      "costas": [
+        "preparacao-costas.png",
+        "golpe-costas.png",
+        "recuperacao-costas.png"
+      ],
+      "esquerda": [
+        "preparacao-esquerda.png",
+        "golpe-esquerda.png",
+        "recuperacao-esquerda.png"
+      ],
+      "direita": [
+        "preparacao-direita.png",
+        "golpe-direita.png",
+        "recuperacao-direita.png"
+      ]
+    },
+    "invocacao": {
+      "frente": [
+        "invocacao-preparacao-frente.png",
+        "invocacao-conjurando-frente.png",
+        "invocacao-finalizacao-frente.png"
+      ],
+      "costas": [
+        "invocacao-preparacao-costas.png",
+        "invocacao-conjurando-costas.png",
+        "invocacao-finalizacao-costas.png"
+      ],
+      "esquerda": [
+        "invocacao-preparacao-esquerda.png",
+        "invocacao-conjurando-esquerda.png",
+        "invocacao-finalizacao-esquerda.png"
+      ],
+      "direita": [
+        "invocacao-preparacao-direita.png",
+        "invocacao-conjurando-direita.png",
+        "invocacao-finalizacao-direita.png"
+      ]
+    },
+    "dano": {
+      "frente": [
+        "dano-impacto-frente.png",
+        "dano-recuperacao-frente.png"
+      ],
+      "costas": [
+        "dano-impacto-costas.png",
+        "dano-recuperacao-costas.png"
+      ],
+      "esquerda": [
+        "dano-impacto-esquerda.png",
+        "dano-recuperacao-esquerda.png"
+      ],
+      "direita": [
+        "dano-impacto-direita.png",
+        "dano-recuperacao-direita.png"
+      ]
+    },
+    "derrota": [
+      "derrota-01.png",
+      "derrota-02.png",
+      "derrota-03.png",
+      "derrota-04.png",
+      "derrota-05.png",
+      "derrota-06.png"
+    ]
+  }
+}

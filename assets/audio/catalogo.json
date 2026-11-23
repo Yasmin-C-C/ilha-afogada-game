@@ -1,0 +1,424 @@
+{
+  "musicas": {
+    "menu": {
+      "arquivo": "musica-menu-imediata.ogg",
+      "volume": 0.48
+    },
+    "afogada": {
+      "arquivo": "musica-afogada.ogg",
+      "volume": 0.18
+    },
+    "macacos": {
+      "arquivo": "musica-macacos.ogg",
+      "volume": 0.22
+    },
+    "caveira": {
+      "arquivo": "musica-caveira.ogg",
+      "volume": 0.26
+    },
+    "guardiao": {
+      "arquivo": "musica-guardiao.ogg",
+      "volume": 0.3
+    },
+    "rei": {
+      "arquivo": "musica-rei-epic-fight.ogg",
+      "volume": 0.27
+    },
+    "combate": {
+      "arquivo": "musica-combate-imediata.ogg",
+      "volume": 0.5
+    },
+    "final": {
+      "arquivo": "musica-final-vitoria.ogg",
+      "volume": 0.42
+    },
+    "vitoria": {
+      "arquivo": "musica-vitoria.ogg",
+      "volume": 0.34,
+      "repeticoes": 0
+    }
+  },
+  "ambientes": {
+    "mar": {
+      "arquivo": "ambiente-mar-continuo.ogg",
+      "volume": 0.24
+    },
+    "floresta": {
+      "arquivo": "ambiente-floresta.ogg",
+      "arquivos": [
+        "ambiente-floresta.ogg",
+        "ambiente-floresta-2.ogg",
+        "ambiente-floresta-3.ogg",
+        "ambiente-floresta-4.ogg"
+      ],
+      "volume": 0.075
+    },
+    "sombrio": {
+      "arquivo": "ambiente-sombrio.ogg",
+      "volume": 0.15
+    },
+    "fogueira": {
+      "arquivo": "ambiente-fogueira.ogg",
+      "volume": 0.25
+    },
+    "insetos": {
+      "arquivo": "ambiente-insetos.ogg",
+      "volume": 0.055
+    },
+    "mare_enchendo": {
+      "arquivo": "ambiente-mare_enchendo.ogg",
+      "volume": 0.34
+    },
+    "mare_recuando": {
+      "arquivo": "ambiente-mare_recuando.ogg",
+      "volume": 0.28
+    }
+  },
+  "efeitos": {
+    "espada": {
+      "arquivos": [
+        "espada-1.wav",
+        "espada-2.wav"
+      ],
+      "volume": 0.42,
+      "intervalo_ms": 150
+    },
+    "dano": {
+      "arquivos": [
+        "dano-1.wav",
+        "dano-2.wav"
+      ],
+      "volume": 0.4,
+      "intervalo_ms": 350
+    },
+    "inimigo_dano": {
+      "arquivos": [
+        "impacto-1.wav",
+        "impacto-2.wav"
+      ],
+      "volume": 0.43,
+      "intervalo_ms": 70
+    },
+    "passo_areia": {
+      "arquivos": [
+        "passo-areia-1.wav",
+        "passo-areia-2.wav",
+        "passo-areia-3.wav",
+        "passo-areia-4.wav"
+      ],
+      "volume": 0.24,
+      "intervalo_ms": 320
+    },
+    "passo_terra": {
+      "arquivos": [
+        "passo-terra-1.wav",
+        "passo-terra-2.wav",
+        "passo-terra-3.wav",
+        "passo-terra-4.wav"
+      ],
+      "volume": 0.24,
+      "intervalo_ms": 320
+    },
+    "passo_pedra": {
+      "arquivos": [
+        "passo-pedra-1.wav",
+        "passo-pedra-2.wav",
+        "passo-pedra-3.wav",
+        "passo-pedra-4.wav"
+      ],
+      "volume": 0.24,
+      "intervalo_ms": 320
+    },
+    "passo_madeira": {
+      "arquivos": [
+        "passo-madeira-1.wav",
+        "passo-madeira-2.wav",
+        "passo-madeira-3.wav",
+        "passo-madeira-4.wav"
+      ],
+      "volume": 0.24,
+      "intervalo_ms": 320
+    },
+    "passo_agua": {
+      "arquivos": [
+        "passo-agua-1.wav",
+        "passo-agua-2.wav",
+        "passo-agua-3.wav",
+        "passo-agua-4.wav"
+      ],
+      "volume": 0.27,
+      "intervalo_ms": 320
+    },
+    "morte": {
+      "arquivos": [
+        "morte.wav"
+      ],
+      "volume": 0.4,
+      "intervalo_ms": 150
+    },
+    "coleta": {
+      "arquivos": [
+        "coleta.wav"
+      ],
+      "volume": 0.34,
+      "intervalo_ms": 150
+    },
+    "bau": {
+      "arquivos": [
+        "bau.wav"
+      ],
+      "volume": 0.34,
+      "intervalo_ms": 150
+    },
+    "esquiva": {
+      "arquivos": [
+        "esquiva.wav"
+      ],
+      "volume": 0.36,
+      "intervalo_ms": 150
+    },
+    "menu_selecao": {
+      "arquivos": [
+        "menu_selecao.wav"
+      ],
+      "volume": 0.22,
+      "intervalo_ms": 150
+    },
+    "menu_confirmar": {
+      "arquivos": [
+        "menu_confirmar.wav"
+      ],
+      "volume": 0.28,
+      "intervalo_ms": 150
+    },
+    "mapa_papel": {
+      "arquivos": [
+        "mapa_papel.wav"
+      ],
+      "volume": 0.3,
+      "intervalo_ms": 150
+    },
+    "dialogo": {
+      "arquivos": [
+        "dialogo.wav"
+      ],
+      "volume": 0.18,
+      "intervalo_ms": 150
+    },
+    "bote_madeira": {
+      "arquivos": [
+        "bote_madeira.wav"
+      ],
+      "volume": 0.2,
+      "intervalo_ms": 2500
+    },
+    "remada": {
+      "arquivos": [
+        "remada.wav"
+      ],
+      "volume": 0.25,
+      "intervalo_ms": 150
+    },
+    "rei_impacto": {
+      "arquivos": [
+        "rei_impacto.wav"
+      ],
+      "volume": 0.46,
+      "intervalo_ms": 500
+    },
+    "rei_invocacao": {
+      "arquivos": [
+        "rei_invocacao.wav"
+      ],
+      "volume": 0.35,
+      "intervalo_ms": 3000
+    },
+    "surgimento": {
+      "arquivos": [
+        "surgimento.wav"
+      ],
+      "volume": 0.38,
+      "intervalo_ms": 800
+    },
+    "rei_derrota": {
+      "arquivos": [
+        "rei_derrota.wav"
+      ],
+      "volume": 0.5,
+      "intervalo_ms": 500
+    },
+    "descoberta": {
+      "arquivos": [
+        "descoberta.wav"
+      ],
+      "volume": 0.28,
+      "intervalo_ms": 1000
+    },
+    "mapa_completo": {
+      "arquivos": [
+        "mapa_completo.wav"
+      ],
+      "volume": 0.36,
+      "intervalo_ms": 1000
+    },
+    "derrota": {
+      "arquivos": [
+        "derrota.wav"
+      ],
+      "volume": 0.34,
+      "intervalo_ms": 1000
+    },
+    "rei_preparacao": {
+      "arquivos": [
+        "rei-preparacao.wav"
+      ],
+      "volume": 0.24,
+      "intervalo_ms": 800
+    },
+    "gaivota": {
+      "arquivos": [
+        "gaivota-1.wav",
+        "gaivota-2.wav",
+        "gaivota-3.wav"
+      ],
+      "volume": 0.23,
+      "intervalo_ms": 12000
+    },
+    "mare_subida": {
+      "arquivos": [
+        "mare_subida.wav"
+      ],
+      "volume": 0.31,
+      "intervalo_ms": 1200
+    },
+    "mare_recuo": {
+      "arquivos": [
+        "mare_recuo.wav"
+      ],
+      "volume": 0.24,
+      "intervalo_ms": 1200
+    },
+    "macacos": {
+      "arquivos": [
+        "macacos.wav"
+      ],
+      "volume": 0.13,
+      "intervalo_ms": 18000
+    },
+    "kia_grito_ataque": {
+      "arquivos": [
+        "kia-grito-ataque.wav"
+      ],
+      "volume": 0.54,
+      "intervalo_ms": 250
+    },
+    "kia_urro_ataque": {
+      "arquivos": [
+        "kia-urro-ataque-1.wav",
+        "kia-urro-ataque-2.wav"
+      ],
+      "volume": 0.5,
+      "intervalo_ms": 250
+    },
+    "kia_urro_esquiva": {
+      "arquivos": [
+        "kia-urro-esquiva-1.wav",
+        "kia-urro-esquiva-2.wav"
+      ],
+      "volume": 0.33,
+      "intervalo_ms": 900
+    },
+    "skeleton_dano": {
+      "arquivos": [
+        "skeleton-dano-1.wav",
+        "skeleton-dano-2.wav"
+      ],
+      "volume": 0.43,
+      "intervalo_ms": 90
+    },
+    "skeleton_espada": {
+      "arquivos": [
+        "skeleton-espada-1.wav",
+        "skeleton-espada-2.wav"
+      ],
+      "volume": 0.34,
+      "intervalo_ms": 100
+    },
+    "skeleton_ossos": {
+      "arquivos": [
+        "skeleton-ossos-1.wav",
+        "skeleton-ossos-2.wav"
+      ],
+      "volume": 0.16,
+      "intervalo_ms": 320
+    },
+    "skeleton_derrota": {
+      "arquivos": [
+        "skeleton-derrota-1.wav",
+        "skeleton-derrota-2.wav"
+      ],
+      "volume": 0.36,
+      "intervalo_ms": 0
+    },
+    "pirata_ataque": {
+      "arquivos": [
+        "pirata-ataque-1.wav",
+        "pirata-ataque-2.wav",
+        "pirata-ataque-3.wav"
+      ],
+      "volume": 0.48,
+      "intervalo_ms": 180
+    },
+    "pirata_dano": {
+      "arquivos": [
+        "pirata-dano.wav"
+      ],
+      "volume": 0.4,
+      "intervalo_ms": 180
+    },
+    "pirata_derrota": {
+      "arquivos": [
+        "pirata-derrota-1.wav",
+        "pirata-derrota-2.wav"
+      ],
+      "volume": 0.48,
+      "intervalo_ms": 0
+    },
+    "rei_urro": {
+      "arquivos": [
+        "rei_urro.wav"
+      ],
+      "volume": 0.44,
+      "intervalo_ms": 500
+    },
+    "rei_grito": {
+      "arquivos": [
+        "rei_grito.wav"
+      ],
+      "volume": 0.46,
+      "intervalo_ms": 500
+    },
+    "vitoria_chave": {
+      "arquivos": [
+        "vitoria-chave.wav"
+      ],
+      "volume": 0.46,
+      "intervalo_ms": 1000
+    },
+    "rei_dano": {
+      "arquivos": [
+        "rei_dano_1.wav",
+        "rei_dano_2.wav"
+      ],
+      "volume": 0.38,
+      "intervalo_ms": 380
+    },
+    "rei_risada": {
+      "arquivos": [
+        "rei_risada.wav"
+      ],
+      "volume": 0.34,
+      "intervalo_ms": 500
+    }
+  }
+}

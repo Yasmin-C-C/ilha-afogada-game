@@ -1,0 +1,39 @@
+{
+  "ferramenta": "image_gen integrada",
+  "referencias": [
+    "assets/objects/bau.png",
+    "assets/objects/palmeira.png",
+    "assets/objects/caixa.png"
+  ],
+  "sprites": [
+    {
+      "arquivo": "assets/objects/bau_aberto.png",
+      "prompt": "Create ONE transparent PNG game sprite: the OPEN state of the exact wooden treasure chest in the reference. Preserve the same brown plank chest, chunky charcoal iron straps, antique brass latch, straight-on slightly top-down RPG view, pixel-art painterly shading, light from upper left. Lid hinged open upward/back, clearly open dark EMPTY interior, front container and two thick iron bands remain same width and perspective as the closed reference. NO coins, no map, no contents, no character, no ground or platform. Entire object isolated with genuine transparent alpha and generous 8% padding; no black or white backdrop, no checkerboard printed into the art. Make the full open chest fit a square image and visually usable at 78x84 in the game; simple strong silhouette, restrained pixel details. This is a matching animation state, not a different chest. No text, letters, UI, frame, logo or watermark."
+    },
+    {
+      "arquivo": "assets/objects/placa-envelhecida.png",
+      "prompt": "Generate ONE isolated transparent PNG game sprite of a small weathered wooden inscription SIGN on a single short wooden post, for a pirate dark fantasy 2D top-down RPG. Match the reference wooden crate's warm dark brown wood, chunky hand-painted pixel-art edges, rusty charcoal nail heads, subtle moss and salt wear. Straight-on slightly top-down game view, light from upper left. Two overlapping rough wooden boards form a wide horizontal rectangular sign, chipped corners, tiny iron nail heads, faint shallow unreadable scratch marks. Board width about 1.8 times full sign height including post. Low short centered post visible below, no cross shape, no skull, no hanging frame, no decoration extending far. Do NOT write any readable text: the game overlays inscription through code. Strong readable silhouette at 54x44 px. Entire sign including stake fully visible with 10% transparent padding, no ground, grass, cast shadow beyond object, no black/white background, no checkerboard, no letters, logo or watermark. Genuine alpha transparency."
+    },
+    {
+      "arquivo": "assets/objects/arbusto-tropical-folhas.png",
+      "prompt": "ONE isolated transparent PNG sprite for the tropical island of a pirate dark fantasy top-down 2D RPG. Match the palm tree reference's hand-painted chunky pixel-art foliage, muted olive and forest greens, warm upper-left highlights, visible pixel clusters, dimensional shading, slight overhead frontal view. A LOW tropical bush, NOT a tall tree, no trunk, no banana fruit, no monkeys or animals. Strong clear silhouette usable at 60-90px width. No scenery, ground tile, large surrounding shadow, text, UI or border. Entire object with 10% transparent padding, genuine alpha transparency, no printed checkerboard or solid backdrop. A compact rounded cluster of large broad tropical leaves, layered outward from the center, about 1.5 times wider than tall."
+    },
+    {
+      "arquivo": "assets/objects/arbusto-tropical-samambaia.png",
+      "prompt": "ONE isolated transparent PNG sprite for the tropical island of a pirate dark fantasy top-down 2D RPG. Match the palm tree reference's hand-painted chunky pixel-art foliage, muted olive and forest greens, warm upper-left highlights, visible pixel clusters, dimensional shading, slight overhead frontal view. A LOW tropical bush, NOT a tall tree, no trunk, no banana fruit, no monkeys or animals. Strong clear silhouette usable at 60-90px width. No scenery, ground tile, large surrounding shadow, text, UI or border. Entire object with 10% transparent padding, genuine alpha transparency, no printed checkerboard or solid backdrop. A low spreading tropical fern bush with curved fronds, serrated leaflets, flatter broad silhouette about twice as wide as tall."
+    },
+    {
+      "arquivo": "assets/objects/arbusto-tropical-baixo.png",
+      "prompt": "ONE isolated transparent PNG sprite for the tropical island of a pirate dark fantasy top-down 2D RPG. Match the palm tree reference's hand-painted chunky pixel-art foliage, muted olive and forest greens, warm upper-left highlights, visible pixel clusters, dimensional shading, slight overhead frontal view. A LOW tropical bush, NOT a tall tree, no trunk, no banana fruit, no monkeys or animals. Strong clear silhouette usable at 60-90px width. No scenery, ground tile, large surrounding shadow, text, UI or border. Entire object with 10% transparent padding, genuine alpha transparency, no printed checkerboard or solid backdrop. A small irregular mound of dense leathery oval tropical leaves, asymmetrical groups of leaves, one small curling fern at the right, about 1.7 times wider than tall."
+    },
+    {
+      "arquivo": "assets/objects/cais-tabuas.png"
+    },
+    {
+      "arquivo": "assets/objects/cais-pilar.png"
+    },
+    {
+      "arquivo": "assets/objects/armadura.png"
+    }
+  ]
+}

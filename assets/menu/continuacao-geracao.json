@@ -1,0 +1,16 @@
+{
+  "ferramenta": "image_gen integrada",
+  "arquivo": "assets/menu/continuacao-aventura.png",
+  "previa": "output/continuacao-final.png",
+  "referencias": [
+    "assets/menu/continuacao-aventura.png (versão anterior, identidade visual e Kia)"
+  ],
+  "prompt": "Use case: illustration-story. Create a brand-new final continuation screen BACKGROUND illustration for the dark fantasy pirate game A Ilha Afogada. The supplied image is a STYLE AND HEROINE IDENTITY reference only; recompose the scene into a fresh cinematic ending. Kia is a young adult pirate woman with very long dark brown hair, cream rolled-sleeve blouse, charcoal vest, red waist sash, dark trousers, brown boots. She is in a small weathered wooden rowboat viewed from behind in three-quarter view, in the lower-left to middle-left foreground, holding a COMPLETE old parchment treasure map made of two joined halves, visible seam and a destination X. The treasure has NOT yet been reached. Her small boat journeys across the mysterious dark teal ocean toward a distant unexplored island on the right under an opening of golden dawn light in storm clouds. A ruined dead island fades into the far left background. Cohesive high-quality painterly pirate fantasy illustration, dark navy/teal, warm antique gold light, rich maritime textures, hopeful sense of adventures yet to come, not a defeat screen. Wide landscape aspect ratio 32:17, target 1792x952 or nearest wide size. Composition for actual game UI: reserve upper center x10%-90%, y5%-27% as smooth dark cloudy sky for TWO centered lines of text added by the game. Reserve lower CENTER x25%-75%, y72%-98% as calm dark water with no bright highlights, no boat or foreground objects, for ending caption, creator credit and one menu button. Keep Kia, her map and rowboat distinctly LEFT of the reserved lower-center area; important narrative picture occupies middle y28%-70%, island right. The reference image contains no text, keep the new background free of all text, lettering, logos, UI, borders, panels or buttons; exact Portuguese ending texts will be composited deterministically in the game. No treasure chest or coins. Do not depict a large ship in place of the small rowboat. No watermark.",
+  "textos": [
+    "Que novas aventuras nos aguardam?",
+    "O mapa completo revela a localização exata do tesouro!",
+    "Fim de Gameplay",
+    "Criado e produzido por Yasmin Costa"
+  ],
+  "tipografia": "Textos brancos com sombra, renderizados pelo jogo para preservar a grafia exata; botão Voltar ao menu mantido."
+}

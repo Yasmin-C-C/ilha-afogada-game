@@ -1,0 +1,858 @@
+{
+  "personagem": "pirata",
+  "integrado": true,
+  "animacoes": {
+    "parada": {
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "parada/frente-01.png",
+            "limite_visivel": [
+              106,
+              43,
+              279,
+              306
+            ]
+          },
+          {
+            "arquivo": "parada/frente-02.png",
+            "limite_visivel": [
+              105,
+              42,
+              279,
+              306
+            ]
+          },
+          {
+            "arquivo": "parada/frente-03.png",
+            "limite_visivel": [
+              105,
+              43,
+              278,
+              307
+            ]
+          },
+          {
+            "arquivo": "parada/frente-04.png",
+            "limite_visivel": [
+              104,
+              44,
+              279,
+              307
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "parada/costas-01.png",
+            "limite_visivel": [
+              106,
+              47,
+              276,
+              307
+            ]
+          },
+          {
+            "arquivo": "parada/costas-02.png",
+            "limite_visivel": [
+              107,
+              47,
+              276,
+              307
+            ]
+          },
+          {
+            "arquivo": "parada/costas-03.png",
+            "limite_visivel": [
+              102,
+              47,
+              282,
+              307
+            ]
+          },
+          {
+            "arquivo": "parada/costas-04.png",
+            "limite_visivel": [
+              106,
+              47,
+              277,
+              307
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "parada/esquerda-01.png",
+            "limite_visivel": [
+              115,
+              42,
+              269,
+              306
+            ]
+          },
+          {
+            "arquivo": "parada/esquerda-02.png",
+            "limite_visivel": [
+              113,
+              38,
+              270,
+              306
+            ]
+          },
+          {
+            "arquivo": "parada/esquerda-03.png",
+            "limite_visivel": [
+              114,
+              42,
+              269,
+              306
+            ]
+          },
+          {
+            "arquivo": "parada/esquerda-04.png",
+            "limite_visivel": [
+              115,
+              44,
+              269,
+              306
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "parada/direita-01.png",
+            "limite_visivel": [
+              140,
+              40,
+              243,
+              307
+            ]
+          },
+          {
+            "arquivo": "parada/direita-02.png",
+            "limite_visivel": [
+              139,
+              38,
+              245,
+              307
+            ]
+          },
+          {
+            "arquivo": "parada/direita-03.png",
+            "limite_visivel": [
+              135,
+              40,
+              247,
+              307
+            ]
+          },
+          {
+            "arquivo": "parada/direita-04.png",
+            "limite_visivel": [
+              139,
+              40,
+              243,
+              307
+            ]
+          }
+        ]
+      }
+    },
+    "caminhada": {
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "caminhada/frente-01.png",
+            "limite_visivel": [
+              118,
+              81,
+              266,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/frente-02.png",
+            "limite_visivel": [
+              122,
+              84,
+              262,
+              306
+            ]
+          },
+          {
+            "arquivo": "caminhada/frente-03.png",
+            "limite_visivel": [
+              125,
+              81,
+              260,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/frente-04.png",
+            "limite_visivel": [
+              120,
+              82,
+              263,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/frente-05.png",
+            "limite_visivel": [
+              124,
+              84,
+              260,
+              306
+            ]
+          },
+          {
+            "arquivo": "caminhada/frente-06.png",
+            "limite_visivel": [
+              124,
+              84,
+              260,
+              306
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "caminhada/costas-01.png",
+            "limite_visivel": [
+              117,
+              82,
+              265,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/costas-02.png",
+            "limite_visivel": [
+              121,
+              82,
+              263,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/costas-03.png",
+            "limite_visivel": [
+              120,
+              83,
+              262,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/costas-04.png",
+            "limite_visivel": [
+              119,
+              82,
+              264,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/costas-05.png",
+            "limite_visivel": [
+              119,
+              82,
+              264,
+              306
+            ]
+          },
+          {
+            "arquivo": "caminhada/costas-06.png",
+            "limite_visivel": [
+              120,
+              83,
+              263,
+              307
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "caminhada/esquerda-01.png",
+            "limite_visivel": [
+              113,
+              86,
+              269,
+              306
+            ]
+          },
+          {
+            "arquivo": "caminhada/esquerda-02.png",
+            "limite_visivel": [
+              121,
+              85,
+              260,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/esquerda-03.png",
+            "limite_visivel": [
+              122,
+              87,
+              260,
+              306
+            ]
+          },
+          {
+            "arquivo": "caminhada/esquerda-04.png",
+            "limite_visivel": [
+              124,
+              90,
+              259,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/esquerda-05.png",
+            "limite_visivel": [
+              125,
+              87,
+              255,
+              306
+            ]
+          },
+          {
+            "arquivo": "caminhada/esquerda-06.png",
+            "limite_visivel": [
+              126,
+              86,
+              255,
+              306
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "caminhada/direita-01.png",
+            "limite_visivel": [
+              119,
+              89,
+              265,
+              306
+            ]
+          },
+          {
+            "arquivo": "caminhada/direita-02.png",
+            "limite_visivel": [
+              138,
+              89,
+              245,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/direita-03.png",
+            "limite_visivel": [
+              137,
+              88,
+              246,
+              307
+            ]
+          },
+          {
+            "arquivo": "caminhada/direita-04.png",
+            "limite_visivel": [
+              128,
+              90,
+              256,
+              306
+            ]
+          },
+          {
+            "arquivo": "caminhada/direita-05.png",
+            "limite_visivel": [
+              139,
+              87,
+              244,
+              306
+            ]
+          },
+          {
+            "arquivo": "caminhada/direita-06.png",
+            "limite_visivel": [
+              133,
+              90,
+              250,
+              307
+            ]
+          }
+        ]
+      }
+    },
+    "ataque": {
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "ataque/frente-preparacao.png",
+            "limite_visivel": [
+              93,
+              45,
+              290,
+              307
+            ]
+          },
+          {
+            "arquivo": "ataque/frente-golpe.png",
+            "limite_visivel": [
+              107,
+              45,
+              276,
+              306
+            ]
+          },
+          {
+            "arquivo": "ataque/frente-continuacao.png",
+            "limite_visivel": [
+              82,
+              48,
+              299,
+              306
+            ]
+          },
+          {
+            "arquivo": "ataque/frente-recuperacao.png",
+            "limite_visivel": [
+              103,
+              43,
+              279,
+              307
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "ataque/costas-preparacao.png",
+            "limite_visivel": [
+              97,
+              43,
+              287,
+              307
+            ]
+          },
+          {
+            "arquivo": "ataque/costas-golpe.png",
+            "limite_visivel": [
+              85,
+              38,
+              298,
+              306
+            ]
+          },
+          {
+            "arquivo": "ataque/costas-continuacao.png",
+            "limite_visivel": [
+              70,
+              47,
+              312,
+              306
+            ]
+          },
+          {
+            "arquivo": "ataque/costas-recuperacao.png",
+            "limite_visivel": [
+              98,
+              40,
+              285,
+              306
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "ataque/esquerda-preparacao.png",
+            "limite_visivel": [
+              99,
+              42,
+              284,
+              307
+            ]
+          },
+          {
+            "arquivo": "ataque/esquerda-golpe.png",
+            "limite_visivel": [
+              43,
+              58,
+              341,
+              307
+            ]
+          },
+          {
+            "arquivo": "ataque/esquerda-continuacao.png",
+            "limite_visivel": [
+              57,
+              66,
+              326,
+              307
+            ]
+          },
+          {
+            "arquivo": "ataque/esquerda-recuperacao.png",
+            "limite_visivel": [
+              100,
+              48,
+              284,
+              307
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "ataque/direita-preparacao.png",
+            "limite_visivel": [
+              99,
+              35,
+              284,
+              307
+            ]
+          },
+          {
+            "arquivo": "ataque/direita-golpe.png",
+            "limite_visivel": [
+              53,
+              50,
+              331,
+              307
+            ]
+          },
+          {
+            "arquivo": "ataque/direita-continuacao.png",
+            "limite_visivel": [
+              57,
+              56,
+              325,
+              307
+            ]
+          },
+          {
+            "arquivo": "ataque/direita-recuperacao.png",
+            "limite_visivel": [
+              108,
+              39,
+              277,
+              307
+            ]
+          }
+        ]
+      }
+    },
+    "dano": {
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "dano/frente-impacto.png",
+            "limite_visivel": [
+              44,
+              14,
+              338,
+              337
+            ]
+          },
+          {
+            "arquivo": "dano/frente-recuperacao.png",
+            "limite_visivel": [
+              76,
+              14,
+              308,
+              334
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "dano/costas-impacto.png",
+            "limite_visivel": [
+              45,
+              14,
+              338,
+              342
+            ]
+          },
+          {
+            "arquivo": "dano/costas-recuperacao.png",
+            "limite_visivel": [
+              73,
+              13,
+              312,
+              334
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "dano/esquerda-impacto.png",
+            "limite_visivel": [
+              61,
+              14,
+              322,
+              329
+            ]
+          },
+          {
+            "arquivo": "dano/esquerda-recuperacao.png",
+            "limite_visivel": [
+              92,
+              14,
+              292,
+              321
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "dano/direita-impacto.png",
+            "limite_visivel": [
+              61,
+              13,
+              322,
+              330
+            ]
+          },
+          {
+            "arquivo": "dano/direita-recuperacao.png",
+            "limite_visivel": [
+              122,
+              13,
+              262,
+              330
+            ]
+          }
+        ]
+      }
+    },
+    "derrota": {
+      "direcoes": {
+        "frente": [
+          {
+            "arquivo": "derrota/frente-01.png",
+            "limite_visivel": [
+              124,
+              98,
+              258,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/frente-02.png",
+            "limite_visivel": [
+              112,
+              119,
+              269,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/frente-03.png",
+            "limite_visivel": [
+              108,
+              146,
+              276,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/frente-04.png",
+            "limite_visivel": [
+              103,
+              180,
+              280,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/frente-05.png",
+            "limite_visivel": [
+              102,
+              213,
+              281,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/frente-06.png",
+            "limite_visivel": [
+              83,
+              229,
+              302,
+              306
+            ]
+          }
+        ],
+        "costas": [
+          {
+            "arquivo": "derrota/costas-01.png",
+            "limite_visivel": [
+              124,
+              98,
+              259,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/costas-02.png",
+            "limite_visivel": [
+              111,
+              113,
+              271,
+              306
+            ]
+          },
+          {
+            "arquivo": "derrota/costas-03.png",
+            "limite_visivel": [
+              104,
+              141,
+              279,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/costas-04.png",
+            "limite_visivel": [
+              93,
+              171,
+              290,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/costas-05.png",
+            "limite_visivel": [
+              91,
+              209,
+              292,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/costas-06.png",
+            "limite_visivel": [
+              77,
+              232,
+              306,
+              307
+            ]
+          }
+        ],
+        "esquerda": [
+          {
+            "arquivo": "derrota/esquerda-01.png",
+            "limite_visivel": [
+              122,
+              101,
+              262,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/esquerda-02.png",
+            "limite_visivel": [
+              120,
+              119,
+              264,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/esquerda-03.png",
+            "limite_visivel": [
+              109,
+              139,
+              273,
+              306
+            ]
+          },
+          {
+            "arquivo": "derrota/esquerda-04.png",
+            "limite_visivel": [
+              88,
+              171,
+              297,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/esquerda-05.png",
+            "limite_visivel": [
+              88,
+              198,
+              297,
+              306
+            ]
+          },
+          {
+            "arquivo": "derrota/esquerda-06.png",
+            "limite_visivel": [
+              70,
+              222,
+              314,
+              306
+            ]
+          }
+        ],
+        "direita": [
+          {
+            "arquivo": "derrota/direita-01.png",
+            "limite_visivel": [
+              134,
+              93,
+              249,
+              304
+            ]
+          },
+          {
+            "arquivo": "derrota/direita-02.png",
+            "limite_visivel": [
+              127,
+              114,
+              255,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/direita-03.png",
+            "limite_visivel": [
+              116,
+              143,
+              266,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/direita-04.png",
+            "limite_visivel": [
+              107,
+              179,
+              277,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/direita-05.png",
+            "limite_visivel": [
+              98,
+              210,
+              285,
+              307
+            ]
+          },
+          {
+            "arquivo": "derrota/direita-06.png",
+            "limite_visivel": [
+              71,
+              229,
+              313,
+              306
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

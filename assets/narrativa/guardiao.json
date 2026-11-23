@@ -1,0 +1,21 @@
+{
+  "personagem": "Guardião da Luz",
+  "paginas": [
+    {
+      "titulo": "O último guardião",
+      "texto": "Sou o último Guardião da Luz. Há muito espero por alguém capaz de enfrentar o mal que assombra estas ilhas.\n\nEsta é a Ilha da Caveira, a região mais sombria do arquipélago. As ruínas e ossadas que você encontrou são o que restou de um reino condenado."
+    },
+    {
+      "titulo": "O preço da imortalidade",
+      "texto": "O Rei Necromante foi o soberano destas ilhas. Em busca de poder e imortalidade, sacrificou os próprios súditos.\n\nSeu desejo de vencer a morte transformou este lugar em um reino de ruínas e sofrimento."
+    },
+    {
+      "titulo": "Os mortos do arquipélago",
+      "texto": "Nem a morte trouxe descanso às suas vítimas. Antigos súditos e piratas mortos foram transformados em escravos do Rei Necromante.\n\nOs esqueletos que você enfrentou são essas criaturas, ainda submetidas ao poder dele."
+    },
+    {
+      "titulo": "A metade que falta",
+      "texto": "O Necromante guarda a chave de um baú além da arena. Dentro dele está a metade do mapa que lhe falta.\n\nAo reunir os fragmentos, você descobrirá a localização do verdadeiro tesouro. Enfrente o rei, Kia. Sua jornada ainda pode ter um novo destino."
+    }
+  ]
+}

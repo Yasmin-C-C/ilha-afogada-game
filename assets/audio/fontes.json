@@ -1,0 +1,1683 @@
+{
+  "data": "2026-11-23",
+  "fontes": {
+    "rpg": {
+      "autor": "Kenney",
+      "licenca": "CC0-1.0",
+      "url": "https://kenney.nl/assets/rpg-audio"
+    },
+    "interface": {
+      "autor": "Kenney",
+      "licenca": "CC0-1.0",
+      "url": "https://kenney.nl/assets/interface-sounds"
+    },
+    "impact": {
+      "autor": "Kenney",
+      "licenca": "CC0-1.0",
+      "url": "https://kenney.nl/assets/impact-sounds"
+    },
+    "fantasy": {
+      "autor": "North Fantasy Music",
+      "licenca": "CC-BY-4.0",
+      "url": "https://opengameart.org/content/fantasy-music-and-drum-loops-pack"
+    },
+    "pirate": {
+      "autor": "Eldritch Grim",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/pirate-adventure"
+    },
+    "boss_pixabay": {
+      "autor": "Alec_Koff - Epic Fight",
+      "licenca": "Pixabay Content License",
+      "url": "https://pixabay.com/music/adventure-epic-fight-487416/"
+    },
+    "combates_usuario": {
+      "autor": "Arquivo combates.mp3 enviado pelo usuário",
+      "licenca": "Fornecido pelo usuário",
+      "url": "combates.mp3"
+    },
+    "menu_usuario": {
+      "autor": "Arquivo menu.mp3 enviado pelo usuário",
+      "licenca": "Fornecido pelo usuário",
+      "url": "menu.mp3"
+    },
+    "waves": {
+      "autor": "jasinski; edição original qubodup",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/beach-ocean-waves"
+    },
+    "mar_longo": {
+      "autor": "rucisko - ocean waves 01",
+      "licenca": "CC0-1.0",
+      "url": "https://freesound.org/people/rucisko/sounds/164767/"
+    },
+    "fire": {
+      "autor": "PagDev",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/fireplace-sound-loop"
+    },
+    "wind": {
+      "autor": "remaxim",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/short-wind-sound"
+    },
+    "birds": {
+      "autor": "isaiah658",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/ambient-bird-sounds"
+    },
+    "dungeon": {
+      "autor": "JaggedStone",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/loopable-dungeon-ambience"
+    },
+    "magic": {
+      "autor": "JaggedStone",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/node/29772"
+    },
+    "voices": {
+      "autor": "Cici Fyre (cicifyre)",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/female-rpg-voice-starter-pack"
+    },
+    "water": {
+      "autor": "rubberduck",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/40-cc0-water-splash-slime-sfx"
+    },
+    "crickets": {
+      "autor": "dklon",
+      "licenca": "CC-BY-3.0",
+      "url": "https://opengameart.org/content/crickets"
+    },
+    "monkeys": {
+      "autor": "Radio_fragola_gorizia",
+      "licenca": "CC0-1.0",
+      "url": "https://freesound.org/people/Radio_fragola_gorizia/sounds/400086/"
+    },
+    "seagulls": {
+      "autor": "Lydmakeren",
+      "licenca": "CC0-1.0",
+      "url": "https://freesound.org/people/Lydmakeren/sounds/510917/"
+    },
+    "bones": {
+      "autor": "spookymodem",
+      "licenca": "CC-BY-3.0",
+      "url": "https://opengameart.org/content/rattling-bones"
+    },
+    "crunch": {
+      "autor": "spookymodem",
+      "licenca": "CC-BY-3.0",
+      "url": "https://opengameart.org/content/crunching-bones"
+    },
+    "laugh": {
+      "autor": "Venn Stone",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/evil-laughter-0"
+    },
+    "dark_magic": {
+      "autor": "qubodup",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/3-dark-magic-spells"
+    },
+    "male_pain": {
+      "autor": "Michel Baradari",
+      "licenca": "CC-BY-3.0",
+      "url": "https://opengameart.org/content/11-male-human-paindeath-sounds"
+    },
+    "flood": {
+      "autor": "KevinT1001",
+      "licenca": "CC0-1.0",
+      "url": "https://freesound.org/people/KevinT1001/sounds/379906/"
+    },
+    "male_grunts": {
+      "autor": "HaelDB",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/male-gruntyelling-sounds"
+    },
+    "projeto": {
+      "autor": "A Ilha Afogada - síntese sonora do projeto",
+      "licenca": "Produção do projeto",
+      "url": "ferramentas/preparar_audio.py"
+    },
+    "vitoria_mapa": {
+      "autor": "Umplix",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/victory-4"
+    },
+    "vitoria_chave": {
+      "autor": "ARoachIFoundOnMyPillow",
+      "licenca": "CC0-1.0",
+      "url": "https://opengameart.org/content/victory-fanfare"
+    },
+    "ilha3_usuario": {
+      "autor": "Arquivo ilha 3.mp3 enviado pelo usuário",
+      "licenca": "Fornecido pelo usuário",
+      "url": "ilha 3.mp3"
+    }
+  },
+  "arquivos": [
+    {
+      "arquivo": "dano-1.wav",
+      "segundos": 0.464,
+      "fontes": [
+        "voices"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "voices.zip",
+          "membro": "RPG Voice Starter Pack/Type 3/damaged1.wav",
+          "sha256_original": "91833836c0c6e9aba122a4d67a0e964353d9cf0bbfd64e14c7e0cc01c0a6d4f2"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "ef5b61d7b707dde5fc74b7ce9b135d44a1c47367a2260ba3a9f2ea580345e3d9"
+    },
+    {
+      "arquivo": "impacto-1.wav",
+      "segundos": 0.313,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/impactWood_heavy_000.ogg",
+          "sha256_original": "15ff82332f342c30e469215539e1cc57e11b221aa2cf7e11e811d313a9927f3d"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "a0ae030eb9f22cbd95fbf2e0afb7616591cf6d64e9267cf2f21254ad7a63c648"
+    },
+    {
+      "arquivo": "dano-2.wav",
+      "segundos": 0.37,
+      "fontes": [
+        "voices"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "voices.zip",
+          "membro": "RPG Voice Starter Pack/Type 3/damaged2.wav",
+          "sha256_original": "c9e7308db5c898e47fb11edd18497750b4b29991d3420762f14ebe327892c60c"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "e7d03ed5f83704d3e884b64d9a7738ed21a527aa20e79d92f440ed3ad7b47f8f"
+    },
+    {
+      "arquivo": "impacto-2.wav",
+      "segundos": 0.313,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/impactWood_heavy_001.ogg",
+          "sha256_original": "f1b07a53ac10c615fff9ba470511fdeb722b5902e1a8520759fc20ad6f546015"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "86cbd22779a2eb7ed4635bdcb63c3149f2a0a577b5afb5861722182c4d50da16"
+    },
+    {
+      "arquivo": "morte.wav",
+      "segundos": 0.313,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/impactWood_heavy_003.ogg",
+          "sha256_original": "af07511902b309b3f6d8f0e1fafbe93869127fb88099ebdc0aa6a00a98dc3cb0"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "738ac7dd900f9b3d4d5f3b10764e4257a93fbd70c64f07f9c2ffdc325b2b856c"
+    },
+    {
+      "arquivo": "coleta.wav",
+      "segundos": 0.539,
+      "fontes": [
+        "interface"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "interface-sounds.zip",
+          "membro": "Audio/confirmation_002.ogg",
+          "sha256_original": "33b17a9a9a2397c62b285c52c33a907fdffb476909c99e42dde603f6a7a8b12c"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "afda5f70f13a019ebb6d72b475a74bdcb972972d6f795748a2c2c1214f07a180"
+    },
+    {
+      "arquivo": "bau.wav",
+      "segundos": 0.919,
+      "fontes": [
+        "rpg"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/doorOpen_1.ogg",
+          "sha256_original": "4ab93bab96522d8eb109ff96dc57cb6765deb02448fe14c10472084be5bb2a0b"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "bdc49599d5ae8d453ec3cab98f9ffbbbe499d8aa0d4f4f956769ba8ebafd350d"
+    },
+    {
+      "arquivo": "esquiva.wav",
+      "segundos": 0.6,
+      "fontes": [
+        "rpg"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/cloth1.ogg",
+          "sha256_original": "ddb93a3671233f95da0e0b10367f082f7eb42fa6caaddcf776410aa8833c747d"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "a7b2f2d81c16b9783f34d6fa294d15419e06231d778c3f592dbc41a4837def7d"
+    },
+    {
+      "arquivo": "menu_selecao.wav",
+      "segundos": 0.01,
+      "fontes": [
+        "interface"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "interface-sounds.zip",
+          "membro": "Audio/click_003.ogg",
+          "sha256_original": "2fa929138bc3a0f432696588f66eac94b8f6d463905ec8808c6461ce4b054292"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "b130b0c3ba1d382a373cb6a4ad05dfb549764f6836013975194948b4a8c8b4d4"
+    },
+    {
+      "arquivo": "menu_confirmar.wav",
+      "segundos": 0.29,
+      "fontes": [
+        "interface"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "interface-sounds.zip",
+          "membro": "Audio/confirmation_001.ogg",
+          "sha256_original": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "300286f7468e67e319fe31826fc730e281b873054519a220cdb6d3451f434ed7"
+    },
+    {
+      "arquivo": "mapa_papel.wav",
+      "segundos": 0.154,
+      "fontes": [
+        "rpg"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/bookOpen.ogg",
+          "sha256_original": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "7533721e48ce0b3457c729f5bec80ab000f9378f24699416f37b63a55e63221f"
+    },
+    {
+      "arquivo": "dialogo.wav",
+      "segundos": 0.706,
+      "fontes": [
+        "rpg"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/bookFlip1.ogg",
+          "sha256_original": "fa81ac2fedc8c641661b87e349630a36c9800e795e0c800e029214efdbe26a7d"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "bf1dd6567b9b432b0cbf55e03ae857c4fcddadd706796461a97a9e0e9789d4ff"
+    },
+    {
+      "arquivo": "bote_madeira.wav",
+      "segundos": 0.611,
+      "fontes": [
+        "rpg"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/creak1.ogg",
+          "sha256_original": "8a346186fd297254248cab8e8117060a52a5cf2a84f603153a762108550ea95e"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "dfa7b538e9c44d0d978fcab89f43b96b80c15862ce9f97aa4b0169f2ed21097e"
+    },
+    {
+      "arquivo": "remada.wav",
+      "segundos": 0.631,
+      "fontes": [
+        "water"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "water.zip",
+          "membro": "splash_08.ogg",
+          "sha256_original": "fd4c9c8fbfe4ac7348644918a73b1d004b037bac3ef24a1303549b705624828a"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "538880cfe67ab86744f573a456ad0244c015cbcfae1af0caf2a4521eba04e4a9"
+    },
+    {
+      "arquivo": "descoberta.wav",
+      "segundos": 1.438,
+      "fontes": [
+        "magic"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "magical_5.ogg",
+          "membro": null,
+          "sha256_original": "69aaaaed729cacb518005a5d24074196db3c5fffc0ed2cd01ad864fbed4a62be"
+        }
+      ],
+      "alteracoes": "Recorte, normalização e fade; WAV mono 44,1 kHz.",
+      "sha256": "fe86e15cb8f6e6d2881853a0cfb84ab16ac3a2d9cb1f40ec3eb7e441154001b9"
+    },
+    {
+      "arquivo": "mapa_completo.wav",
+      "segundos": 1.11,
+      "fontes": [
+        "magic"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "magical_6.ogg",
+          "membro": null,
+          "sha256_original": "0a18ee3460cf3fd79c3771bbf94c20c26d34b65ab60d0b0e15694ffcad815955"
+        }
+      ],
+      "alteracoes": "Recorte, normalização e fade; WAV mono 44,1 kHz.",
+      "sha256": "32b25ea11647dd4e1893da101930bb13c2ca7ae1ad12a76e453687b3ce3f7564"
+    },
+    {
+      "arquivo": "rei-preparacao.wav",
+      "segundos": 0.5,
+      "fontes": [
+        "wind"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "wind.wav",
+          "membro": null,
+          "sha256_original": "4435f5ad1baf171f21f876f778d0a8a7447becea0c4955bb2566e0c63ab20f41"
+        }
+      ],
+      "alteracoes": "Trecho curto do vento para preparação do golpe; normalização e fade.",
+      "sha256": "bf3cd534f9d7fbc8305a407386727af3bc886f1eb1d1de7e122b10f33cf835e3"
+    },
+    {
+      "arquivo": "musica-menu-imediata.ogg",
+      "segundos": 120.066,
+      "fontes": [
+        "menu_usuario"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "menu-usuario.mp3",
+          "membro": null,
+          "sha256_original": "ef3e269c64235a0ab0c2cdeb84bb1015a9ecff43c67cda0aa63ed19296015bbd"
+        }
+      ],
+      "alteracoes": "Normalização com limite de pico, fade de 5 ms nas extremidades; OGG Vorbis estéreo 44,1 kHz. Silêncio inicial removido para entrada imediata.",
+      "sha256": "e60c25c886f94805f9adb50094741877d4d820e42e3a245844abb7380da528cd"
+    },
+    {
+      "arquivo": "musica-afogada.ogg",
+      "segundos": 64.0,
+      "fontes": [
+        "fantasy"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "fantasyambience.zip",
+          "membro": "FantasyAmbience/Nightwatch.wav",
+          "sha256_original": "2fd62eabb29dbaeb50c3aded1dfaa37a6235b6110a88ace803811cb0d5897972"
+        }
+      ],
+      "alteracoes": "Normalização com limite de pico, fade de 20 ms nas extremidades; OGG Vorbis estéreo 44,1 kHz.",
+      "sha256": "c9ea2817dcc991da953fe60f787c823394dd0f9971ff1185c67e3011819de202"
+    },
+    {
+      "arquivo": "musica-macacos.ogg",
+      "segundos": 61.991,
+      "fontes": [
+        "pirate"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "pirate_adventure.wav",
+          "membro": null,
+          "sha256_original": "54c3bff9b139054685cd3ecb62c2da8815496df5cc8df7c8888d97891dcb5640"
+        }
+      ],
+      "alteracoes": "Normalização com limite de pico, fade de 20 ms nas extremidades; OGG Vorbis estéreo 44,1 kHz.",
+      "sha256": "da079f5bdc481cd2668ab008e9efec5699718b63a945048bb5a00ae2571f4bac"
+    },
+    {
+      "arquivo": "musica-caveira.ogg",
+      "segundos": 222.041,
+      "fontes": [
+        "ilha3_usuario"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "ilha 3.mp3",
+          "membro": null,
+          "sha256_original": "78ca426169a1cc32348a734a1734f9bacbcccc87717e6e36e0c846fa669ac3e5"
+        }
+      ],
+      "alteracoes": "Normalização com limite de pico, fade de 20 ms nas extremidades; OGG Vorbis estéreo 44,1 kHz.",
+      "sha256": "c50e5f43b8709e1da5c950ef5f56fb951ba8a2b871e55ff4bb78363faa1ed2da"
+    },
+    {
+      "arquivo": "musica-guardiao.ogg",
+      "segundos": 62.958,
+      "fontes": [
+        "fantasy"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "fantasyambience.zip",
+          "membro": "FantasyAmbience/Temple_of_Light.wav",
+          "sha256_original": "d416730e8e7e68b0e6212e20723cf6057e445a4d1f57f673271382c5d85d5259"
+        }
+      ],
+      "alteracoes": "Normalização com limite de pico, fade de 20 ms nas extremidades; OGG Vorbis estéreo 44,1 kHz. Silêncio inicial removido para entrada imediata.",
+      "sha256": "dcee6ae12310cb50ccb684d7ee540e7f577f08fbb49af87f0df66af367a957d7"
+    },
+    {
+      "arquivo": "musica-rei-epic-fight.ogg",
+      "segundos": 58.54,
+      "fontes": [
+        "boss_pixabay"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "epic-fight-487416.mp3",
+          "membro": null,
+          "sha256_original": "c82a121ddd598392e7556dc8265e69ed2c39a213b71a77af5b366e2a760401c3"
+        }
+      ],
+      "alteracoes": "Normalização com limite de pico, fade de 20 ms nas extremidades; OGG Vorbis estéreo 44,1 kHz.",
+      "sha256": "f234c40b2736b5877b96445948249328784af88aaa1d707ad1072851732ab660"
+    },
+    {
+      "arquivo": "musica-combate-imediata.ogg",
+      "segundos": 155.41,
+      "fontes": [
+        "combates_usuario"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "combates-usuario.mp3",
+          "membro": null,
+          "sha256_original": "31ecac6ede9754b1aedea100a666ad727ff31687470f7c5169db92333d67faeb"
+        }
+      ],
+      "alteracoes": "Normalização com limite de pico, fade de 5 ms nas extremidades; OGG Vorbis estéreo 44,1 kHz. Introdução de baixo volume recortada para começar no primeiro trecho forte.",
+      "sha256": "a17b63e4150879273b10c5c6e8d375da3610536054512e0e564d0f6612739823"
+    },
+    {
+      "arquivo": "musica-final-vitoria.ogg",
+      "segundos": 12.632,
+      "fontes": [
+        "vitoria_mapa"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "victory-music.wav",
+          "membro": null,
+          "sha256_original": "b5ece016f3c22970c09bd4f1f8c4aa78ed233156f5c7f31ad7a3490d4e638097"
+        }
+      ],
+      "alteracoes": "Normalização com limite de pico, fade de 20 ms nas extremidades; OGG Vorbis estéreo 44,1 kHz.",
+      "sha256": "f03007aa956cd731e260cb017877424c7aac8946c2995f8c03f9dfdf4d28bd70"
+    },
+    {
+      "arquivo": "musica-vitoria.ogg",
+      "segundos": 12.632,
+      "fontes": [
+        "vitoria_mapa"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "victory-music.wav",
+          "membro": null,
+          "sha256_original": "b5ece016f3c22970c09bd4f1f8c4aa78ed233156f5c7f31ad7a3490d4e638097"
+        }
+      ],
+      "alteracoes": "Normalização com limite de pico, fade de 20 ms nas extremidades; OGG Vorbis estéreo 44,1 kHz.",
+      "sha256": "330a183939a4ad9bc053b61ece61903335478db12ee1a5ff34dca0c3067aaeb9"
+    },
+    {
+      "arquivo": "ambiente-mar-continuo.ogg",
+      "segundos": 57.0,
+      "fontes": [
+        "mar_longo"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "ocean-waves-long.mp3",
+          "membro": null,
+          "sha256_original": "66aab310616c4b2e00efdc313c1923237a1aeaecd3e86e990450fe78fd856d1b"
+        }
+      ],
+      "alteracoes": "Trecho contínuo de 60 s; mono, normalização e crossfade de potência constante de 3 s para loop sem queda de volume.",
+      "sha256": "0242b7180d4cc7505f4314280e4d42642385ab32e20ff02904eea43c2321b7df"
+    },
+    {
+      "arquivo": "ambiente-sombrio.ogg",
+      "segundos": 23.65,
+      "fontes": [
+        "dungeon"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "dungeon.ogg",
+          "membro": null,
+          "sha256_original": "df491823e4877371c34dbda4e9321cd83a4a14fa7573cee0ebca1ae423b70e6e"
+        }
+      ],
+      "alteracoes": "Trecho mono, normalização e emenda com crossfade de 350 ms para repetição; OGG Vorbis.",
+      "sha256": "4e478bac8f969954ca0f7f82eb8eebf8c9bc1723c69000a25dc3e3620436dac4"
+    },
+    {
+      "arquivo": "ambiente-fogueira.ogg",
+      "segundos": 17.65,
+      "fontes": [
+        "fire"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "fire.wav",
+          "membro": null,
+          "sha256_original": "85ca0cc60d0c037fff8b185e31ad1fcdbda6ce45eee17c3ee1318d1b8f59e330"
+        }
+      ],
+      "alteracoes": "Trecho mono, normalização e emenda com crossfade de 350 ms para repetição; OGG Vorbis.",
+      "sha256": "ff4c163c564d51fdf2a542d79257f5fd92d5f6c404ed7479408f21247efcea46"
+    },
+    {
+      "arquivo": "ambiente-insetos.ogg",
+      "segundos": 15.65,
+      "fontes": [
+        "crickets"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "crickets.mp3",
+          "membro": null,
+          "sha256_original": "90cc63e7f9aef02d2c3bee846639bd3884018a1ad1279b1faff6cb79246eb176"
+        }
+      ],
+      "alteracoes": "Trecho mono, normalização e emenda com crossfade de 350 ms para repetição; OGG Vorbis.",
+      "sha256": "6d8c4d9c06371925295cd4facf8ff4fcd0b10e65a45dc8735c9a67fefa29f05d"
+    },
+    {
+      "arquivo": "ambiente-mare_enchendo.ogg",
+      "segundos": 11.65,
+      "fontes": [
+        "flood",
+        "waves"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "flood.mp3",
+          "membro": null,
+          "sha256_original": "8b436b532f595a3846b59186e6edba3bfc580e7b14e6c6cba7c9b31513ffff95"
+        },
+        {
+          "arquivo_original": "waves.flac",
+          "membro": null,
+          "sha256_original": "fcfca178eca2eac536e8c2a4ed5cf8096e44c921acd587047b3d9f1d7845435c"
+        }
+      ],
+      "alteracoes": "Correnteza de enchente com 20% de ondas do mar, normalização e crossfade de 350 ms; OGG mono.",
+      "sha256": "ec4a1ec2cddf1ccf3d8e33d07903a13673a1cfd432cc688e1b3123f1e3af73ad"
+    },
+    {
+      "arquivo": "ambiente-mare_recuando.ogg",
+      "segundos": 11.65,
+      "fontes": [
+        "flood",
+        "waves"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "flood.mp3",
+          "membro": null,
+          "sha256_original": "8b436b532f595a3846b59186e6edba3bfc580e7b14e6c6cba7c9b31513ffff95"
+        },
+        {
+          "arquivo_original": "waves.flac",
+          "membro": null,
+          "sha256_original": "fcfca178eca2eac536e8c2a4ed5cf8096e44c921acd587047b3d9f1d7845435c"
+        }
+      ],
+      "alteracoes": "Correnteza de enchente com 20% de ondas do mar, normalização e crossfade de 350 ms; OGG mono.",
+      "sha256": "bc6c275b1fc4e6921b1e9b0d55b05a1d6691c7edacfd65c538a3220d1ccb4072"
+    },
+    {
+      "arquivo": "gaivota-1.wav",
+      "segundos": 3.5,
+      "fontes": [
+        "seagulls"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "seagulls.mp3",
+          "membro": null,
+          "sha256_original": "3c7bdb380c634eeb0126d88258c80fac4e81d4fc0ee03a65f0a25e458f1cfd44"
+        }
+      ],
+      "alteracoes": "Trecho da prévia pública em MP3; normalização, mistura mono e fades de 120 ms.",
+      "sha256": "8a15bca1f4c6d5bbf4952d1243a3f53de9cc9bbe899738adb9f22db8f063f428"
+    },
+    {
+      "arquivo": "gaivota-2.wav",
+      "segundos": 3.5,
+      "fontes": [
+        "seagulls"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "seagulls.mp3",
+          "membro": null,
+          "sha256_original": "3c7bdb380c634eeb0126d88258c80fac4e81d4fc0ee03a65f0a25e458f1cfd44"
+        }
+      ],
+      "alteracoes": "Trecho da prévia pública em MP3; normalização, mistura mono e fades de 120 ms.",
+      "sha256": "80364e00963193ae468e589c976b285e9bf22ccfbf40d1a4d904f3f96f6e5bb0"
+    },
+    {
+      "arquivo": "gaivota-3.wav",
+      "segundos": 3.5,
+      "fontes": [
+        "seagulls"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "seagulls.mp3",
+          "membro": null,
+          "sha256_original": "3c7bdb380c634eeb0126d88258c80fac4e81d4fc0ee03a65f0a25e458f1cfd44"
+        }
+      ],
+      "alteracoes": "Trecho da prévia pública em MP3; normalização, mistura mono e fades de 120 ms.",
+      "sha256": "b48d6666532126ad0f3332535ab70fa2d0ada0711acfe43113989e1329a3cd3e"
+    },
+    {
+      "arquivo": "mare_subida.wav",
+      "segundos": 4.0,
+      "fontes": [
+        "waves"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "waves.flac",
+          "membro": null,
+          "sha256_original": "fcfca178eca2eac536e8c2a4ed5cf8096e44c921acd587047b3d9f1d7845435c"
+        }
+      ],
+      "alteracoes": "Trecho de onda, normalização, fade de 500 ms; recuo reproduzido ao contrário.",
+      "sha256": "4438a975ed9b35a247c0402b75889bbf9a74ae1c707925bf5fa7e0b7ed97b552"
+    },
+    {
+      "arquivo": "mare_recuo.wav",
+      "segundos": 4.0,
+      "fontes": [
+        "waves"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "waves.flac",
+          "membro": null,
+          "sha256_original": "fcfca178eca2eac536e8c2a4ed5cf8096e44c921acd587047b3d9f1d7845435c"
+        }
+      ],
+      "alteracoes": "Trecho de onda, normalização, fade de 500 ms; recuo reproduzido ao contrário.",
+      "sha256": "b74735a7cfc62b8401d8a812c7c27cda54004dc58fcd1fa26cf9d413dd7a4751"
+    },
+    {
+      "arquivo": "macacos.wav",
+      "segundos": 6.0,
+      "fontes": [
+        "monkeys"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "monkeys.mp3",
+          "membro": null,
+          "sha256_original": "41818f27fcd0d45fce2bc27dc19eae67a8f2ed1b0589ffc8db4b7e760f747ec9"
+        }
+      ],
+      "alteracoes": "Trecho da prévia pública em MP3, normalizado e convertido em WAV mono; fades de 100 ms.",
+      "sha256": "c698565412c20bada4cff5ca6c664675bd1c59389a5b77c181778c25080ba7b3"
+    },
+    {
+      "arquivo": "espada-1.wav",
+      "segundos": 0.517,
+      "fontes": [
+        "rpg"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/knifeSlice.ogg",
+          "sha256_original": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f"
+        }
+      ],
+      "alteracoes": "Golpe acelerado em 16% para timbre mais agudo e afiado; normalização e fades.",
+      "sha256": "e4373da14b55fb383cc3b095b142bd180fb64022e47b0e1b6b05f89ab3d1518f"
+    },
+    {
+      "arquivo": "kia-urro-ataque-1.wav",
+      "segundos": 0.29,
+      "fontes": [
+        "voices"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "voices.zip",
+          "membro": "RPG Voice Starter Pack/Type 3/attack1.wav",
+          "sha256_original": "5b92dd2b5fae403e3f6f8016379e29ca38c45e198136928ee4bd5adec8545a7f"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "ff2ad13c9391ef3ee134da39b8783b365fdb89f3ab0cedb53819abe6a0447e18"
+    },
+    {
+      "arquivo": "kia-urro-esquiva-1.wav",
+      "segundos": 0.297,
+      "fontes": [
+        "voices"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "voices.zip",
+          "membro": "RPG Voice Starter Pack/Type 3/jump1.wav",
+          "sha256_original": "1722251f1da623b53fe2d6ba183e78373a9514a9c86444215a8157a8257b0f92"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "793b65557d0e0e7324d300cc442ae9f7605764dd5237dd61474cf73e690498b8"
+    },
+    {
+      "arquivo": "skeleton-dano-1.wav",
+      "segundos": 0.45,
+      "fontes": [
+        "crunch"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "bones-crunch.wav",
+          "membro": null,
+          "sha256_original": "0dae2105892ba903dc16f41e515b253bb0e42dd1b2b022530338671d87624250"
+        }
+      ],
+      "alteracoes": "Estalo de ossos selecionado por energia em cada metade; normalização e fade curto.",
+      "sha256": "2a2e2c203951a3b56bcdebb03b2dce88caf8355eda991727c533ad6d1a73cac7"
+    },
+    {
+      "arquivo": "skeleton-espada-1.wav",
+      "segundos": 0.681,
+      "fontes": [
+        "rpg"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/knifeSlice.ogg",
+          "sha256_original": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f"
+        }
+      ],
+      "alteracoes": "Golpe de espada com timbre mais grave que a espada de Kia.",
+      "sha256": "f2e1c40d7728b682e7bc10d34989feac5fdc505b36f0c489d6ec138cc14a8528"
+    },
+    {
+      "arquivo": "skeleton-ossos-1.wav",
+      "segundos": 0.28,
+      "fontes": [
+        "bones"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "bones.wav",
+          "membro": null,
+          "sha256_original": "e48a9d57fc7dea97179675224c88958de002fb75ed5e98abb955c116da83ecd1"
+        }
+      ],
+      "alteracoes": "Trecho curto de ossos batendo, selecionado por energia; normalização e fade.",
+      "sha256": "c786aa6b8fcd8427d3f947c88d47b0c2210a00124145f52f848e2144df7a2a48"
+    },
+    {
+      "arquivo": "rei_dano_1.wav",
+      "segundos": 0.972,
+      "fontes": [
+        "male_pain"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-pain.7z",
+          "membro": "player/painh.wav",
+          "sha256_original": "356f526eb62983746f4b1364cfbe71e02a8f1371c9f84bc0d6f3e24cbfd068db"
+        }
+      ],
+      "alteracoes": "Recorte, alteração de altura por velocidade, ecos curtos, normalização e fades.",
+      "sha256": "3de733a2e59004ac7530fa34bc47691b309a2ee159dc9d278a3776ba6135c90f"
+    },
+    {
+      "arquivo": "espada-2.wav",
+      "segundos": 0.49,
+      "fontes": [
+        "rpg"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/knifeSlice2.ogg",
+          "sha256_original": "6c2064d0ef988d1ec3d56868e823ea8823a5cac00f2742560052633529407def"
+        }
+      ],
+      "alteracoes": "Golpe acelerado em 16% para timbre mais agudo e afiado; normalização e fades.",
+      "sha256": "5243d8fa9728e244f6e8445df655a55ec4fdbd2132051ba5a3841058c5923745"
+    },
+    {
+      "arquivo": "kia-urro-ataque-2.wav",
+      "segundos": 0.351,
+      "fontes": [
+        "voices"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "voices.zip",
+          "membro": "RPG Voice Starter Pack/Type 3/attack2.wav",
+          "sha256_original": "d364f6d691b3955f98eff8792092b4a66834b89bbb82aa37e3b082e51c2ce4db"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "d6cad13934b61d129f70ed2fe387f6daf3927dc72818433281b2f272d3b0e589"
+    },
+    {
+      "arquivo": "kia-urro-esquiva-2.wav",
+      "segundos": 0.289,
+      "fontes": [
+        "voices"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "voices.zip",
+          "membro": "RPG Voice Starter Pack/Type 3/jump2.wav",
+          "sha256_original": "3cb63529d597a37ffc754e1c553b2d9fc5a704ff5296df84015d7946c923356b"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "ab3988652fc00af63d9e5ce7e9c6e1fa0c47588bc1716dde2f9701dd847dd2eb"
+    },
+    {
+      "arquivo": "skeleton-dano-2.wav",
+      "segundos": 0.45,
+      "fontes": [
+        "crunch"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "bones-crunch.wav",
+          "membro": null,
+          "sha256_original": "0dae2105892ba903dc16f41e515b253bb0e42dd1b2b022530338671d87624250"
+        }
+      ],
+      "alteracoes": "Estalo de ossos selecionado por energia em cada metade; normalização e fade curto.",
+      "sha256": "8928d87d8acbbbe78965997d1c7ba2889bee9d5f2bae611b8403fd9ccd4a4b99"
+    },
+    {
+      "arquivo": "skeleton-espada-2.wav",
+      "segundos": 0.646,
+      "fontes": [
+        "rpg"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/knifeSlice2.ogg",
+          "sha256_original": "6c2064d0ef988d1ec3d56868e823ea8823a5cac00f2742560052633529407def"
+        }
+      ],
+      "alteracoes": "Golpe de espada com timbre mais grave que a espada de Kia.",
+      "sha256": "d2e9fa27cd20f478b84227b76e457e562f9b4781a496e4371e89c6c8f62914af"
+    },
+    {
+      "arquivo": "skeleton-ossos-2.wav",
+      "segundos": 0.28,
+      "fontes": [
+        "bones"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "bones.wav",
+          "membro": null,
+          "sha256_original": "e48a9d57fc7dea97179675224c88958de002fb75ed5e98abb955c116da83ecd1"
+        }
+      ],
+      "alteracoes": "Trecho curto de ossos batendo, selecionado por energia; normalização e fade.",
+      "sha256": "8b2f5d4c6cfd893db620c40302cdaf48fc03cc231bca453b8e28af17ae0885da"
+    },
+    {
+      "arquivo": "rei_dano_2.wav",
+      "segundos": 0.972,
+      "fontes": [
+        "male_pain"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-pain.7z",
+          "membro": "player/pain3.wav",
+          "sha256_original": "658190e6567dfa0ffbfc45559685b139f69c704c86ba032fb1a3ca843e5fd78b"
+        }
+      ],
+      "alteracoes": "Recorte, alteração de altura por velocidade, ecos curtos, normalização e fades.",
+      "sha256": "23749e1a166af0507ff932a197dbb8179c213c2aa645236adec3204d403d5a38"
+    },
+    {
+      "arquivo": "kia-grito-ataque.wav",
+      "segundos": 0.398,
+      "fontes": [
+        "voices"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "voices.zip",
+          "membro": "RPG Voice Starter Pack/Type 3/attack3.wav",
+          "sha256_original": "6b2046fdc221880374091f8a097fe23819d8f6b47a8ca8209ff4256c6735bb5a"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "33bfc9c4d130e97b8b535edf15fd84217085471b8af739d781454e57281ae041"
+    },
+    {
+      "arquivo": "skeleton-derrota-1.wav",
+      "segundos": 1.556,
+      "fontes": [
+        "male_pain"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-pain.7z",
+          "membro": "player/die1.wav",
+          "sha256_original": "5a6e4765ba9098bf0b02bc4f2467d9eb9bf2490c103af063860145332079ba9b"
+        }
+      ],
+      "alteracoes": "Recorte, alteração de altura por velocidade, ecos curtos, normalização e fades.",
+      "sha256": "c7e71fb4fafaffe1e20db4155b8523292e28dcbefd6831ba6091f2e9b0a0343e"
+    },
+    {
+      "arquivo": "skeleton-derrota-2.wav",
+      "segundos": 1.762,
+      "fontes": [
+        "male_pain"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-pain.7z",
+          "membro": "player/die2.wav",
+          "sha256_original": "7cbaa7b4c111d733c4ddae8e042a78e5452ceb59c67d846dfcb587c420d5412d"
+        }
+      ],
+      "alteracoes": "Recorte, alteração de altura por velocidade, ecos curtos, normalização e fades.",
+      "sha256": "90808b3320e154e6e213a009d333c3cc017bf89cc0e7079ccad96c1e0121a976"
+    },
+    {
+      "arquivo": "pirata-ataque-1.wav",
+      "segundos": 0.5,
+      "fontes": [
+        "male_grunts"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-grunts.zip",
+          "membro": "yelling sounds/3grunt3.wav",
+          "sha256_original": "6006516ae7979896a4053cfc88f26ef575a67133fa0c51de5d9a893498960cc9"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "97ceb05dc72b33e5fbd84b18f033efc300e768f81f8c17e9b82a0bf9d31398b6"
+    },
+    {
+      "arquivo": "pirata-ataque-2.wav",
+      "segundos": 0.253,
+      "fontes": [
+        "male_grunts"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-grunts.zip",
+          "membro": "yelling sounds/3grunt4.wav",
+          "sha256_original": "4ba97adf030acefa10195f88c3fb329ebbea2c9638bd412896e1b4fc0ca35404"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "601f65657ca20fcbf2bb2c5465bfb0f311bff4bf6ca0074280904b4874bea4b4"
+    },
+    {
+      "arquivo": "pirata-ataque-3.wav",
+      "segundos": 0.75,
+      "fontes": [
+        "male_grunts"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-grunts.zip",
+          "membro": "yelling sounds/3yell12.wav",
+          "sha256_original": "24d232e83d15537868a849328e367f6e8fb0028b6825d67637515ff350817056"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "3244c24f2d082da654fa4bb40b31246450e338dbf660246762342590fba914b5"
+    },
+    {
+      "arquivo": "pirata-dano.wav",
+      "segundos": 0.363,
+      "fontes": [
+        "male_grunts"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-grunts.zip",
+          "membro": "yelling sounds/3grunt5.wav",
+          "sha256_original": "32705e7835d0cdce3eb6e9d3a512ef128ee6c50564bd53bb0723b4474be85181"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "21d5d5fc6098364816652ad78bccbd0919115a6a21bf0743a23a297b02dee800"
+    },
+    {
+      "arquivo": "pirata-derrota-1.wav",
+      "segundos": 1.811,
+      "fontes": [
+        "male_grunts"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-grunts.zip",
+          "membro": "yelling sounds/3yell1.wav",
+          "sha256_original": "df151155a9c1a743de9d7c079a700896f37926d832305e07d2c7f2f0846c86b9"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "b66b8d8e4487e864c44b07efe99634d2d3c44f1a36e2ca2dd13281cfcfbc6a40"
+    },
+    {
+      "arquivo": "pirata-derrota-2.wav",
+      "segundos": 2.067,
+      "fontes": [
+        "male_grunts"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-grunts.zip",
+          "membro": "yelling sounds/3yell6.wav",
+          "sha256_original": "154c45227173e8419cc408b9ec92b01c4bb1a7a6bfbdb1f469ab787ec49ecec2"
+        }
+      ],
+      "alteracoes": "Recorte de silêncio, normalização, fade curto; WAV mono 44,1 kHz.",
+      "sha256": "4c0cd0ee1a5595a77a6fcba10f3fa70e4a87bd19366115960539630a851507e0"
+    },
+    {
+      "arquivo": "rei_urro.wav",
+      "segundos": 2.423,
+      "fontes": [
+        "male_grunts"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-grunts.zip",
+          "membro": "yelling sounds/3grunt6.wav",
+          "sha256_original": "c334b34e7a64d67f226cd0a54fb237b8fbcc09e5ac6258a32fafcecc2c2e0857"
+        }
+      ],
+      "alteracoes": "Recorte, alteração de altura por velocidade, ecos curtos, normalização e fades.",
+      "sha256": "5a4f74fb2c663014127c006be104de244adcc5fbd650cf66af9ae0b8155d0ecf"
+    },
+    {
+      "arquivo": "rei_grito.wav",
+      "segundos": 2.84,
+      "fontes": [
+        "male_grunts"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-grunts.zip",
+          "membro": "yelling sounds/3yell14.wav",
+          "sha256_original": "7a84b5a5eb0521ebe05b01df9cac45cc37795fba91cc1b5019a504389e3305f2"
+        }
+      ],
+      "alteracoes": "Recorte, alteração de altura por velocidade, ecos curtos, normalização e fades.",
+      "sha256": "8796033298191d11020917e5529dfa9e59e80a81b684bea967fafba678aed3aa"
+    },
+    {
+      "arquivo": "surgimento.wav",
+      "segundos": 2.904,
+      "fontes": [
+        "dark_magic",
+        "crunch"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "dark_magic.7z",
+          "membro": "dark_magic/fout-01.flac",
+          "sha256_original": "47a79f97cb3ac35219d02c0c0b7a2aeb09b260ce9eed3d316728be867e6ac0a9"
+        },
+        {
+          "arquivo_original": "bones-crunch.wav",
+          "membro": null,
+          "sha256_original": "0dae2105892ba903dc16f41e515b253bb0e42dd1b2b022530338671d87624250"
+        }
+      ],
+      "alteracoes": "Magia grave desacelerada, ossos invertidos e eco curto para aparição necromântica; normalização e fades.",
+      "sha256": "fc42a41de3b3ca0568469794197bc45f1b3f46f119b225fa59c08a78d04d5676"
+    },
+    {
+      "arquivo": "derrota.wav",
+      "segundos": 3.6,
+      "fontes": [
+        "projeto"
+      ],
+      "origens": [],
+      "alteracoes": "Composição original sintetizada: notas descendentes de ré menor, ataque suave e decaimento; WAV mono.",
+      "sha256": "c6e130ab19436929f9725adade3e635378f8f680133cd4cfc2089645b3e75e0b"
+    },
+    {
+      "arquivo": "vitoria-chave.wav",
+      "segundos": 3.2,
+      "fontes": [
+        "vitoria_chave"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "victory-key.wav",
+          "membro": null,
+          "sha256_original": "dc74bc29201be3534881702797845c9ca0d32d6b0625d3df03aa4e7f9a0e300c"
+        }
+      ],
+      "alteracoes": "Trecho curto de fanfarra de vitória, mistura mono, normalização e fades de 180 ms.",
+      "sha256": "ffd55217fe48f51a05f2d508cdaf77c57aae966171cd6e4756d01e19a59cbb72"
+    },
+    {
+      "arquivo": "rei_risada.wav",
+      "segundos": 3.999,
+      "fontes": [
+        "laugh"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "evil-laugh.flac",
+          "membro": null,
+          "sha256_original": "45a4c119c1c02cf6c875b623eb7b224978d6129018147cbbaffb0150ba23491a"
+        }
+      ],
+      "alteracoes": "Recorte, alteração de altura por velocidade, ecos curtos, normalização e fades.",
+      "sha256": "2a6fcc9c385330a1e445fa499bbf0a6bb20b99921501948f53e4de7640ae4fbf"
+    },
+    {
+      "arquivo": "rei_derrota.wav",
+      "segundos": 1.471,
+      "fontes": [
+        "male_pain"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "male-pain.7z",
+          "membro": "player/deathh.wav",
+          "sha256_original": "dc6eb8e72c141254700f74c68ba7e97ddaea507e5b8b4869bd03294484c5092b"
+        }
+      ],
+      "alteracoes": "Recorte, alteração de altura por velocidade, ecos curtos, normalização e fades.",
+      "sha256": "8b7c7bf9805305046a3dac4b903d2868c55191fb77c95ef84af272e6d336d0f0"
+    },
+    {
+      "arquivo": "rei_invocacao.wav",
+      "segundos": 2.3,
+      "fontes": [
+        "dark_magic"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "dark_magic.7z",
+          "membro": "dark_magic/fout-03.flac",
+          "sha256_original": "ec55b77eb3096dcc083d219254d0a37a0ecf071477d7c47bc363092c2ca02d0d"
+        }
+      ],
+      "alteracoes": "Trecho de magia sombria, normalizado e com fades; WAV mono.",
+      "sha256": "1dcb2815b54d218550126124fed473ac927bdc3b03e08d635161a167d8d20aec"
+    },
+    {
+      "arquivo": "rei_impacto.wav",
+      "segundos": 0.477,
+      "fontes": [
+        "rpg"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/knifeSlice2.ogg",
+          "sha256_original": "6c2064d0ef988d1ec3d56868e823ea8823a5cac00f2742560052633529407def"
+        },
+        {
+          "arquivo_original": "rpg-audio.zip",
+          "membro": "Audio/cloth2.ogg",
+          "sha256_original": "8a7451193c38bc05483aec25dd193e163a15d44cf7fff04ac7912573231b0201"
+        }
+      ],
+      "alteracoes": "Três cortes em camadas, timbre grave e tecido rasgando para o golpe de garras.",
+      "sha256": "b088fda199a64ae00db3d1da9a3be9f4ff7c6921ba04e7577920fac94a6f687e"
+    },
+    {
+      "arquivo": "passo-areia-1.wav",
+      "segundos": 0.184,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_snow_000.ogg",
+          "sha256_original": "c05fa4a9dc9a7aabc04996466fb589537e49af76de9998d8f9e6270ec92dcef7"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "98b60d0ef425cf7951fc54f957b716225120a3819dc2ab9ce8166490bf33df07"
+    },
+    {
+      "arquivo": "passo-areia-2.wav",
+      "segundos": 0.189,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_snow_001.ogg",
+          "sha256_original": "980fb9a1c9227aed7995067b0357f373053337f2416316db8ea0438418542fb4"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "82ac58e8534c0f87832e420d7501e024eb7f0cb8f6be1ffc0f82b88982c48599"
+    },
+    {
+      "arquivo": "passo-areia-3.wav",
+      "segundos": 0.189,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_snow_002.ogg",
+          "sha256_original": "db52bafdc66304f3b999f2c29227826c65993916e630ac2ffbca17d07b263178"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "e48e0cda461526599b18390b7e9129c64e672177b0a7548e48a634bd976b1c34"
+    },
+    {
+      "arquivo": "passo-areia-4.wav",
+      "segundos": 0.187,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_snow_003.ogg",
+          "sha256_original": "68272e3f1cabcabd02d328fd344454d7c04cb58b5a86972fcdd858f845e3d007"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "52d4ee3b285e501173eef7b390c7cbab1f26ff9a0785fed94e4129bd8e149547"
+    },
+    {
+      "arquivo": "passo-terra-1.wav",
+      "segundos": 0.065,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_grass_000.ogg",
+          "sha256_original": "9d49497777405d78d7cf7f2888e28277f3a23192300cfd1d79d54876b20f479f"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "ae3c22f116abb9e22a358eb3f904324e8e4f76ee1e109bcceb1db6959a6b59c4"
+    },
+    {
+      "arquivo": "passo-terra-2.wav",
+      "segundos": 0.125,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_grass_001.ogg",
+          "sha256_original": "fb28781bd22b2eefdc14077f1adf5c94d7fe9c3a130194633b55f3e0d39d9f04"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "cceae32074dc77e5fc472b726d7feab59fb8473c6556b9e7941c9fbcb2a634ba"
+    },
+    {
+      "arquivo": "passo-terra-3.wav",
+      "segundos": 0.115,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_grass_002.ogg",
+          "sha256_original": "73a520139f5be716a403bfe9c80e0e94d1e61d8e9de04a354b336392164b53dc"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "19d3190ca7049165a3615782b3261cbad538591094035f54a5442bb3a0bfd90a"
+    },
+    {
+      "arquivo": "passo-terra-4.wav",
+      "segundos": 0.066,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_grass_003.ogg",
+          "sha256_original": "0546e1d8ab2def714425701a18bd34c5ee2794b12e858e5b595aabcf38a34137"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "c84a12b4a2381be3a3319845574518f7a0ce772da539626156f6bd9b7b83d64d"
+    },
+    {
+      "arquivo": "passo-pedra-1.wav",
+      "segundos": 0.048,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_concrete_000.ogg",
+          "sha256_original": "d7267e183067757c92c169de2a379abea592cfca6b39bb2e8feea15221ad79fe"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "154c3ba78c80cdeea3fb64ed60608df1c70de3ea124c637fcc87544bc6802593"
+    },
+    {
+      "arquivo": "passo-pedra-2.wav",
+      "segundos": 0.071,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_concrete_001.ogg",
+          "sha256_original": "507a75eb19b897087855a3be3cf11a12d7fa37d143ad535eeebe0b8031c7325d"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "9f4d7d01194fdf249bcd00e29f1a3ccf0d596e44f3b48826f881c633869cf2d7"
+    },
+    {
+      "arquivo": "passo-pedra-3.wav",
+      "segundos": 0.066,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_concrete_002.ogg",
+          "sha256_original": "b21fa546d74941196b25da8a20b7010abd8c05c4fcf93545d1f344e66a664e13"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "750836e63c54a4632dc463e7fe467fc115f3aebcdfa274aa633a80f95412b932"
+    },
+    {
+      "arquivo": "passo-pedra-4.wav",
+      "segundos": 0.051,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_concrete_003.ogg",
+          "sha256_original": "8b513c2f0316324060b9174b8f28df6c2147418c506e6a53b77f18e149a5547b"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "a36384ca26cc16e5ce5abc5d975492272b62cd77385e7bc7715c1e8df9ffd556"
+    },
+    {
+      "arquivo": "passo-madeira-1.wav",
+      "segundos": 0.054,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_wood_000.ogg",
+          "sha256_original": "5f1c252942a220d658121bd9417448cd19649ded9fff2ff15f6e50899373ce8e"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "f5cb4eb1af13a038a9697e3b3d57172f622052ba679e45dd7abf7fa5d24771df"
+    },
+    {
+      "arquivo": "passo-madeira-2.wav",
+      "segundos": 0.056,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_wood_001.ogg",
+          "sha256_original": "e4f68e1c9fd55b4dc8ca89ed2bbab6f200171bc54bdc18aa96b80d8e7336f462"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "3481cbc03fa8cf6109fa7752ea2b3dfcf1b71b067a9c261a663f54472cd3a37f"
+    },
+    {
+      "arquivo": "passo-madeira-3.wav",
+      "segundos": 0.058,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_wood_002.ogg",
+          "sha256_original": "9ff095b05cee5eec40b081defe3f0eef7232bb16d4865ce03b9f6dbab875cfdd"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "5fb5e6922a3663286d9c6ddb458c97fe311b1e56a4fe8bd3af141f5e637fd555"
+    },
+    {
+      "arquivo": "passo-madeira-4.wav",
+      "segundos": 0.053,
+      "fontes": [
+        "impact"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "impact-sounds.zip",
+          "membro": "Audio/footstep_wood_003.ogg",
+          "sha256_original": "2a68a083daa9eda08fed0ea5da5280dfbe0de226196c576be02f95259dd139d9"
+        }
+      ],
+      "alteracoes": "Passo com recorte de silêncio, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "48789f0bddb8150c85a4b4e5f2b08d2deff07d7a65f7437627937875a956ad29"
+    },
+    {
+      "arquivo": "passo-agua-1.wav",
+      "segundos": 0.32,
+      "fontes": [
+        "water"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "water.zip",
+          "membro": "splash_01.ogg",
+          "sha256_original": "156f4df0fa1a552d1c4e451284a55000417ea871954dc4b5e0d4302a49e228a8"
+        }
+      ],
+      "alteracoes": "Respingo curto para passo na água; recorte, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "edca557294b6acc0f4af66334900cf7519e56f7655e01b5246ea5c7b6c7f450f"
+    },
+    {
+      "arquivo": "passo-agua-2.wav",
+      "segundos": 0.32,
+      "fontes": [
+        "water"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "water.zip",
+          "membro": "splash_02.ogg",
+          "sha256_original": "eab0bb4bc01386528ba1e6244c6fd8940ee8d3c91ddb9e9cfea186e8560e04de"
+        }
+      ],
+      "alteracoes": "Respingo curto para passo na água; recorte, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "ace6fbcf7df1f6ed4db43a4a8f1da0a1805df9a97b09e5fafe5e90738a94ef4c"
+    },
+    {
+      "arquivo": "passo-agua-3.wav",
+      "segundos": 0.32,
+      "fontes": [
+        "water"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "water.zip",
+          "membro": "splash_03.ogg",
+          "sha256_original": "ae2cff9a47934ece590dda45ff18acf89c5c98cb5497ce71c50b3a315b225a94"
+        }
+      ],
+      "alteracoes": "Respingo curto para passo na água; recorte, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "08c4f6e24d48f2a545824ecba1a9bbb2f856ca56d6b6e2cea665299fa5e50566"
+    },
+    {
+      "arquivo": "passo-agua-4.wav",
+      "segundos": 0.32,
+      "fontes": [
+        "water"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "water.zip",
+          "membro": "splash_04.ogg",
+          "sha256_original": "58dddea3843b89e9504e6f174ea49cd061b1002bb6ae8a94f358409fabb8340a"
+        }
+      ],
+      "alteracoes": "Respingo curto para passo na água; recorte, fade de 2 ms e ganho por pico/RMS aplicado após o fade; WAV mono 44,1 kHz.",
+      "sha256": "9a74dfa367aa3f353f2fff66d2ee3fd8c60a2ac879302abd5222206d7ec89033"
+    },
+    {
+      "arquivo": "ambiente-floresta.ogg",
+      "segundos": 1.8,
+      "fontes": [
+        "birds"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "birds.ogg",
+          "membro": null,
+          "sha256_original": "359e4e3f9da9d75aac64cede511c7e3ef8b461f9d9f8c230f8f80e44c4b3e35f"
+        }
+      ],
+      "alteracoes": "Trecho curto mono, normalização e fades suaves; reprodução sem loop, com variações e pausas irregulares controladas pelo jogo; OGG Vorbis.",
+      "sha256": "1d967f8344ce55cd8e90310507ad73e228408b74f82f44e4ed83a646a92a913b"
+    },
+    {
+      "arquivo": "ambiente-floresta-2.ogg",
+      "segundos": 2.1,
+      "fontes": [
+        "birds"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "birds.ogg",
+          "membro": null,
+          "sha256_original": "359e4e3f9da9d75aac64cede511c7e3ef8b461f9d9f8c230f8f80e44c4b3e35f"
+        }
+      ],
+      "alteracoes": "Trecho curto mono, normalização e fades suaves; reprodução sem loop, com variações e pausas irregulares controladas pelo jogo; OGG Vorbis.",
+      "sha256": "8c5d484158ad75ea01f42df781ae296a9f13c1658ae18f493608bddc4e8861bd"
+    },
+    {
+      "arquivo": "ambiente-floresta-3.ogg",
+      "segundos": 2.4,
+      "fontes": [
+        "birds"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "birds.ogg",
+          "membro": null,
+          "sha256_original": "359e4e3f9da9d75aac64cede511c7e3ef8b461f9d9f8c230f8f80e44c4b3e35f"
+        }
+      ],
+      "alteracoes": "Trecho curto mono, normalização e fades suaves; reprodução sem loop, com variações e pausas irregulares controladas pelo jogo; OGG Vorbis.",
+      "sha256": "0b2de7d31c7e004f3c5aa77f5f4f6d06704371cfd530eb98106f1b33337ad1b4"
+    },
+    {
+      "arquivo": "ambiente-floresta-4.ogg",
+      "segundos": 1.9,
+      "fontes": [
+        "birds"
+      ],
+      "origens": [
+        {
+          "arquivo_original": "birds.ogg",
+          "membro": null,
+          "sha256_original": "359e4e3f9da9d75aac64cede511c7e3ef8b461f9d9f8c230f8f80e44c4b3e35f"
+        }
+      ],
+      "alteracoes": "Trecho curto mono, normalização e fades suaves; reprodução sem loop, com variações e pausas irregulares controladas pelo jogo; OGG Vorbis.",
+      "sha256": "e6dc9d65e6abc0602f1926b053da74b01194add6f8d3af26f2baafc019a716f9"
+    }
+  ]
+}
