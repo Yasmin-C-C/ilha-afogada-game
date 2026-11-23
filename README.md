@@ -35,5 +35,4 @@ O jogo carrega os recursos de `assets/`, independentemente da pasta de onde foi 
 
 As ferramentas de edição de imagens e áudio precisam das dependências opcionais em `requirements-ferramentas.txt`. Os caminhos das fontes de áudio são passados a `ferramentas/preparar_audio.py`; os arquivos exportados já estão incluídos no jogo. Preserve os créditos e as licenças ao distribuir.
 
-Os PNGs citados nos arquivos `animacoes.json` são necessários, mesmo quando existe um atlas: validam sua assinatura e permitem reconstruí-lo. Não remova esses quadros nem as folhas e metadados usados para edição.
-"# ilha-afogada-game" 
+
